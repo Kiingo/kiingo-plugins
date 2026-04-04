@@ -36,12 +36,12 @@ The framework is sound. The problems are in execution: surface-level questions, 
 
 Before presenting to the group, coach the member:
 
-1. **The Situation:** "Here's what's happening..." (facts, no interpretation)
+1. **The Situation:** "Here's what's happening..." (facts, not interpretation)
 2. **The Tension:** "The reason this is hard is..." (what makes it a dilemma, not just a task)
-3. **The Decision:** "The choice I need to make is..." (specific options or question)
+3. **The Decision:** "The choice I need to make is ..." (specific options or question)
 
 **Chair coaching script (private, before they present):**
- "Before you share this, help me understand it in three sentences. First — just the facts. What's the situation? Good. Now — why is this hard? Not logistically hard, but what makes it a real dilemma? And finally — what's the actual decision? Can you phrase it as a choice between two or three specific options?"
+"Before you share this, help me understand it in three sentences. First — just the facts. What's the situation? Good. Now — why is this hard? Not logistically hard, but what makes it a real dilemma? And finally — what's the actual decision? Can you phrase it as a choice between two or specific options?"
 
 If they can't articulate the decision, that's diagnostic. The first job of the group is to help them find the real question.
 
@@ -86,7 +86,7 @@ If they can't articulate the decision, that's diagnostic. The first job of the g
 
 **Layer 2 — Assumptions** (this is where processing gets real):
 - "What are you assuming about [person]'s motivation?"
-- "What evidence do you have that ["belief] is actually true?"
+- "What evidence do you have that [belief] is actually true?"
 - "Is there another way to interpret what happened?"
 - "What would change if that assumption were wrong?"
 
@@ -128,7 +128,7 @@ About 30% of the time, the real issue surfaces here. When it does, it's the sing
 
 When to use: "We missed revenue targets" / "We lost the customer" / "The project failed"
 
-Process: state the problem. Ask "Why?" Five times. Each answer becomes the subject of the next "Why?"
+Process: State the problem. Ask "Why?" Five times. Each answer becomes the subject of the next "Why?"
 
 Example:
 - Revenue missed by 15%. Why? → Pipeline was thin.
@@ -139,8 +139,35 @@ Example:
 
 Root cause: Hiring infrastructure, not sales effort. Completely different solution.
 
-The Chs job: keep asking "Why?" when the group wants to stop at level 2 or 3. The real insight is usually at level 4 or 5.
+The Clair's job: keep asking "Why?" when the group wants to stop at level 2 or 3. The real insight is usually at level 4 or 5.
 
 **Tool 2: The Iceberg Model** (for recurring problems — the issue keeps coming back)
 
 When to use: "This keeps happening" / "We solved this last quarter but it's back" / "I feel like I'm always dealing with this"
+
+Four levels:
+- **Events** (visible): What happened this time?
+- **Patterns** (below surface): What's the recurring trend?
+- **Structures** (deep): What systems, incentives, or processes produce this pattern?
+- **Mental Models** (deepest): What beliefs or assumptions maintain those structures?
+
+Chair facilitates down the iceberg:
+"Okay, [Name] described the event. Is this a pattern — has something like this happened before?" →  "If it keeps happening, what's the system that's producing it?" →  "What belief or assumption is holding that system in place?"
+
+**Practitioner insight:** The mental model layer is where transformation happens. When a CEO realizes "I keep hiring people who won't challenge me because I believe disagreement is disloyalty" — THAT's a breakthrough. But you can't force someone there. You can only create the conditions.
+
+**Tool 3: The Fishbone** (for complex, multi-causal problems)
+
+When to use: Multiple factors contributing, group needs to map them all.
+
+Draw categories on the board: People, Process, Strategy, Resources, External. Brainstorm causes in each. Then prioritize: "Which ONE of these, if addressed, would have the biggest impact?"
+
+**Tool 4: The Cynefin Quick-Sort** (when the group is arguing because they disagree on approach)
+
+Four domains:
+- **Clear**: Cause-effect obvious. Best practice exists. Just do it.
+- **Complicated**: Cause-effect exists but needs expertise. Analyze, then act.
+- **Complex**: Cause-effect only visible in retrospect. Run safe experiments.
+- **Chaotic**: No cause-effect. Act NOW to stabilize, then assess.
+
+Chair: "Before we go further — is this a clear problem with a known solution? A complicated one needing analysis? A complex one where we need to experiment? Or chaos where we need to act first?" The answer determines the approach. Applying "best practice" to a complex problem is a common and expensive mistake.
