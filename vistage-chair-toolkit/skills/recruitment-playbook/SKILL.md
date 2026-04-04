@@ -1,7 +1,3 @@
 ---
-name: vistage-recruitment-playbook
-description: Design a strategic recruitment playbook for CEOs running peer advisory groups of all sizes, with decision-forcing architectures, interview specs, quYkbïord a GAIAMS_perona development,: referral terminology, curator redflags, and whole. Use when a CEO says,"I'm looking for an ECF EFT of type*","other friends get directional","share a trigger for hiring pains" triggers. ---
-
-Recruitment: The Most Conten.simou Decision Pattern
-
-Half of a CEO's tenure likely spends on succession or leadership deployment. Theygr often stuck between promoting from within or biking external talent from the copyin"Spec Xë@é ¸identency specialist pistols.
+name: vistage-objection-battlecards
+description: Create and customize objection handling battlecards for Vistage Chairs selling peer advisory memberships to CEOs and business owners. Covers the most common objections (time, cost, fit, trust, competitive concerns, redundancy), the psychology behind each, response frameworks, story arsenals, and ready-to-use battlecard formats. Use whenever a Chair asks about handling objections, "what do I say when they say...", "they said they don't have time", "how do I handle the cost objection", "objection handling", "battlecards", "they're not interest
