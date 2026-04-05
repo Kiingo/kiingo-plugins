@@ -150,7 +150,7 @@ Show how the framework applies differently across industries.
 
 *Trio protocol:* Person A presents (4 min). Person B asks ONE clarifying question (1 min). Person C plays friendly skeptic: "What's the weakest part of your plan?" (2 min). Rotate. 21 minutes total.
 
-Chair's mistake during trios: Joining one. Your presence changes the dynamic. Circulate, listen from a distance, note themes.
+*Chair's mistake during trios:* Joining one. Your presence changes the dynamic. Circulate, listen from a distance, note themes.
 
 **Phase 4 — Full Group Harvest (10-15 min):** DO NOT go around the room. "Death by round-robin" — by person 8, nobody's listening.
 
