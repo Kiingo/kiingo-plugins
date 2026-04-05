@@ -26,7 +26,7 @@ The framework is sound. The problems are in execution: surface-level questions, 
 ## STEP 1: Present the Issue (Enhanced)
 
 ### The Failure Modes
-- Presenter rambles for 10 minutes (loses the root)
+- Presenter rambles for 10 minutes (loses the room)
 - Problem is poorly framed (too vague or too narrow)
 - Presenter already decided and wants validation
 - Emotional flooding prevents clear thinking
@@ -38,10 +38,10 @@ Before presenting to the group, coach the member:
 
 1. **The Situation:** "Here's what's happening..." (facts, not interpretation)
 2. **The Tension:** "The reason this is hard is..." (what makes it a dilemma, not just a task)
-3. **The Decision:** "The choice I need to make is ..." (specific options or question)
+3. **The Decision:** "The choice I need to make is..." (specific options or question)
 
 **Chair coaching script (private, before they present):**
-"Before you share this, help me understand it in three sentences. First — just the facts. What's the situation? Good. Now — why is this hard? Not logistically hard, but what makes it a real dilemma? And finally — what's the actual decision? Can you phrase it as a choice between two or specific options?"
+"Before you share this, help me understand it in three sentences. First — just the facts. What's the situation? Good. Now — why is this hard? Not logistically hard, but what makes it a real dilemma? And finally — what's the actual decision? Can you phrase it as a choice between two or three specific options?"
 
 If they can't articulate the decision, that's diagnostic. The first job of the group is to help them find the real question.
 
@@ -104,7 +104,7 @@ If they can't articulate the decision, that's diagnostic. The first job of the g
 
 **Practitioner insight:** Layer 4 is where the magic happens, but most groups never get there because they exhaust the time on Layer 1. The Chair's job is to move the group through the layers quickly. If someone asks a Layer 1 question after 5 minutes of clarification, redirect: "We've got good context. Let's go deeper — what assumptions might [Presenter] be making?"
 
-**Rule 3: Distribute airtime.** Track who's asking questions. If the same 3 people are dominating: "We've heard great questions from this side. [Name], [Name] → what are you curious about?"
+**Rule 3: Distribute airtime.** Track who's asking questions. If the same 3 people are dominating: "We've heard great questions from this side. [Name], [Name] — what are you curious about?"
 
 **Rule 4: The reframe check.** Critical moment — after clarification, before root cause:
 
@@ -139,7 +139,7 @@ Example:
 
 Root cause: Hiring infrastructure, not sales effort. Completely different solution.
 
-The Clair's job: keep asking "Why?" when the group wants to stop at level 2 or 3. The real insight is usually at level 4 or 5.
+The Chair's job: keep asking "Why?" when the group wants to stop at level 2 or 3. The real insight is usually at level 4 or 5.
 
 **Tool 2: The Iceberg Model** (for recurring problems — the issue keeps coming back)
 
@@ -152,7 +152,7 @@ Four levels:
 - **Mental Models** (deepest): What beliefs or assumptions maintain those structures?
 
 Chair facilitates down the iceberg:
-"Okay, [Name] described the event. Is this a pattern — has something like this happened before?" →  "If it keeps happening, what's the system that's producing it?" →  "What belief or assumption is holding that system in place?"
+"Okay, [Name] described the event. Is this a pattern — has something like this happened before?" → "If it keeps happening, what's the system that's producing it?" → "What belief or assumption is holding that system in place?"
 
 **Practitioner insight:** The mental model layer is where transformation happens. When a CEO realizes "I keep hiring people who won't challenge me because I believe disagreement is disloyalty" — THAT's a breakthrough. But you can't force someone there. You can only create the conditions.
 
@@ -171,3 +171,172 @@ Four domains:
 - **Chaotic**: No cause-effect. Act NOW to stabilize, then assess.
 
 Chair: "Before we go further — is this a clear problem with a known solution? A complicated one needing analysis? A complex one where we need to experiment? Or chaos where we need to act first?" The answer determines the approach. Applying "best practice" to a complex problem is a common and expensive mistake.
+
+### The Diagnosis Statement
+
+After root cause analysis, force clarity:
+
+"Based on everything we've uncovered, state the root cause in one sentence."
+
+This prevents the group from solution-generating against a symptom. If the presenter can't state it in one sentence, the diagnosis isn't done.
+
+---
+
+## STEP 4: Generate Solutions (Enhanced)
+
+### The Failure Modes
+- Advice spray (everyone shares war stories and "you should" suggestions)
+- Groupthink (first idea adopted without alternatives)
+- Loudest voice wins
+- Solutions don't match the root cause
+- Presenter overwhelmed by 15 suggestions
+- Options aren't evaluated against criteria
+
+### Solution Generation — Three Protocols
+
+**Protocol A: Hypotheses (Default — Use This Most)**
+
+Chair: "We've identified the root cause. Now I want hypotheses, not advice. A hypothesis sounds like: 'One hypothesis is that if you [action], it would address [root cause] because [reasoning].' This keeps us in inquiry mode."
+
+Go around. One hypothesis per person. Chair captures on whiteboard. Presenter picks 2-3 that resonate. Group pressure-tests: "What could go wrong?" / "What does this assume?" / "Is this reversible?"
+
+Why this works: It prevents the "I had a similar situation and here's what I did" war-story pattern that eats 20 minutes and produces no decisions.
+
+**Protocol B: Silent Generation → Vote → Discuss (Use when dominance is an issue)**
+
+1. Everyone writes ONE option on a card (2 min, silent)
+2. Collect cards, read aloud without attribution
+3. Vote: which 2-3 are most promising?
+4. Discuss only the top-voted options
+5. Presenter chooses
+
+Why this works: Equalizes airtime completely. The quiet member's idea gets the same weight as the CEO with the $200M company.
+
+**Protocol C: Pre-Mortem (Use when the presenter is leaning toward a specific option)**
+
+"[Name] is leaning toward [option]. Let's test it. It's 12 months from now and this decision failed. Why? Everyone write 2-3 failure scenarios. Then we'll share."
+
+Why this works: Surfaces risks without the social cost of directly saying "I think you're wrong." People will write things they'd never say out loud.
+
+### Key Chair Moves During Solutions
+
+- **War story emerging:** "That's a useful parallel. What's the ONE takeaway [Name] should consider?"
+- **Groupthink forming:** "I'm hearing a lot of agreement. Who sees this differently? What are we missing?"
+- **Presenter overwhelmed:** "Let's pause. [Name], of everything you've heard, what resonates? What can you discard?"
+- **Solution doesn't match root cause:** "Wait — our root cause was [X]. Does this solution address THAT, or are we solving a different problem?"
+
+---
+
+## STEP 5: Commit to Action (Enhanced)
+
+### The Failure Modes
+- Vague commitment ("I'll work on it")
+- No timeline ("soon")
+- No metric ("I'll know when it's better")
+- No accountability partner
+- No first irreversible step
+- Too many commitments (dilution)
+- Low energy at end (commitment as afterthought)
+
+### The 5-Part Commitment Protocol
+
+Chair: "[Name], you've heard the diagnosis and the hypotheses. Decision time. Complete these five sentences:"
+
+1. **"I will..."** [Specific action — verb + noun. Not "think about" or "explore"]
+2. **"By..."** [Exact date. Not "soon" or "end of quarter"]
+3. **"I'll know it worked when..."** [Observable outcome — something you could photograph or measure]
+4. **"My first step in the next 48 hours is..."** [Irreversible action that commits them]
+5. **"[Name] will hold me accountable."** [They choose someone in the room]
+
+### The Chair Enforces Specificity
+
+- "That's a category, not an action. What specifically?"
+- "'Soon' isn't a date. When exactly?"
+- "How will we know if this worked? What would we see?"
+- "'I'll think about it' isn't a commitment. What would you need to know to decide right now? Can the group help?"
+
+### The Energy Check
+
+After the commitment: "On 1-10, how committed are you?"
+
+If less than 8: "What would need to change to make it higher?"
+
+This surfaces hidden resistance. A "6" usually means "I said this because the group was watching but I probably won't do it." That's worth 2 more minutes of honest conversation.
+
+### The Accountability Partner's Job
+
+Week 2: "Did you take your first step?"
+Week 4: "Are you on track?"
+Next meeting: "Did you do it? What happened?"
+
+If red flags (avoidance, vagueness, reschedules) → tell the Chair.
+
+---
+
+## Advanced Techniques
+
+### When the Real Issue Isn't the Stated Issue
+
+Happens 30-40% of the time. Signs: the issue feels vague, the presenter seems disconnected, questions keep circling, energy is flat.
+
+**Chair:** "[Name], I want to check something. Is this the thing that's actually keeping you up at night? Or is there something underneath it that's harder to say?"
+
+Let the silence work. If they go deeper, follow it. If not, respect it — but address it in the one-to-one.
+
+### When the Issue Is Actually a Person
+
+Many issues boil down to: "Someone isn't performing and I haven't dealt with it." The issue is a symptom. The people decision is the root cause.
+
+**Chair:** "I'm going to be direct. It sounds like the core issue isn't [stated topic] — it's a people decision you're avoiding. Am I wrong?"
+
+If right: "Who specifically? How long? What have you tried? What's stopping you? What's the cost of another 90 days of inaction?"
+
+### When Two Members Have Conflicting Advice
+
+This is actually the most valuable moment — divergent perspectives reveal real trade-offs.
+
+**Chair:** "[Name A] and [Name B] see this differently. That's gold. [Name A], what's your core concern? [Name B], what's yours? [Presenter], the question isn't who's right — it's which trade-off you're willing to make."
+
+### When the Pattern Keeps Repeating
+
+Same member, same type of issue, month after month (avoiding hard conversations, cash crises, talent problems).
+
+**Chair:** "[Name], I want to observe something with care. Over the last several months, you've brought issues about [pattern]. Each time you committed to [type of action] and the result was [what happened]. I think we might be solving the symptom each month without addressing what's driving this. Can we go there?"
+
+This requires high trust. Only attempt in established or advanced groups. And when you say "with care," mean it — this is a gift, not an attack.
+
+### When a Member Is Seeking Permission
+
+Sometimes a CEO knows exactly what to do but needs the group to say "yes, do it." They're not confused — they're scared. The group's job isn't to generate alternatives. It's to say: "You know what to do. You have our support. Go do it."
+
+**Chair:** "[Name], I'm hearing clarity in your voice, not confusion. I think you know what you need to do. Am I right?" If yes: "Then here's what the group can give you — permission and support. You don't need our advice. You need us to say: go do the hard thing. We've got your back."
+
+---
+
+## Measuring Issue Processing Quality
+
+| Metric | Target | How to Measure |
+|--------|--------|----------------|
+| Commitment specificity | 90%+ have action + date + metric | Review decision log |
+| Follow-through rate | 70%+ completed | Check next meeting |
+| Root cause depth | Reaches Layer 3+ | Chair self-assessment |
+| Airtime equity | No one dominates | Tally marks |
+| Time discipline | 30-45 min per issue | Clock it |
+| Presenter satisfaction | 8+/10 | Quick ask: "Was this helpful?" |
+| Pattern breaking | Repeat issues decrease over 6 months | Track themes by member |
+
+If follow-through stays below 60% for two months, the issue isn't the processing — it's the accountability system. Fix the follow-up, not the exercise.
+
+---
+
+## Quick Reference — Keep This Visible During Processing
+
+**PRESENT:** Coach the 3-Sentence Frame (Situation, Tension, Decision)
+**CLARIFY:** Questions only. Layer: Context → Assumptions → Patterns → Stakes
+**ROOT CAUSE:** Pick one: 5 Whys (linear) | Iceberg (recurring) | Fishbone (complex) | Cynefin (to match approach)
+**SOLUTIONS:** Hypotheses, not advice. "One possibility is..."
+**COMMIT:** 5-Part Protocol: I will / By when / Success metric / First step / Partner
+**IF STUCK:** "Is this the real issue?" — then let the silence work.
+**IF EMOTIONAL:** Slow down. Emotion first, logic later.
+**IF PATTERN:** Name it with care. "I'm noticing over several months..."
+**IF SEEKING PERMISSION:** "You know what to do. Go do it. We've got your back."
