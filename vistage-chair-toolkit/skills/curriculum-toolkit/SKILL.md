@@ -1,6 +1,6 @@
 ---
 name: vistage-curriculum-toolkit
-description: Design 12-month strategic curriculum, icebreaker questions, check-in formats, member lifecycle management, and group health strategies for Vistage and peer advisory groups. Use whenever a CHair wants to plan their anual theme arc, differentiate their group, generate check-in questions, design member onboarding, build a retention strategy, or assess group health. Trigger on "annual planning", "12-month curriculum", "theme arc", "meeting themes", "group differentiation", "member retention", "renewal strategy", "icebreakers for executives", "check-in questions", "member engagement", "group health", or any strategic question about running a peer advisory practice.
+description: Design 12-month strategic curricula, icebreaker questions, check-in formats, member lifecycle management, and group health strategies for Vistage and peer advisory groups. Use whenever a Chair wants to plan their annual theme arc, differentiate their group, generate check-in questions, design member onboarding, build a retention strategy, or assess group health. Trigger on "annual planning", "12-month curriculum", "theme arc", "meeting themes", "group differentiation", "member retention", "renewal strategy", "icebreakers for executives", "check-in questions", "member engagement", "group health", or any strategic question about running a peer advisory practice.
 ---
 
 # Vistage Curriculum & Engagement Toolkit
@@ -30,7 +30,7 @@ The best Chairs design an arc where Month 6 is impossible without Months 1-5, wh
 **1. Compounding value.** Each month's outputs feed the next. If you do pricing in Month 3, the decisions members made should inform the capacity planning discussion in Month 5 and the cash management review in Month 7. A random sequence of good topics is worse than a mediocre sequence that compounds.
 
 **2. Business cycle alignment.** Place themes when they're most actionable:
-- Annual planning: October-November (before budgets finalize)
+- Anuual planning: October-November (before budgets finalize)
 - Pricing strategy: January-February (new year, clean slate to test)
 - Talent review: February-March (anuual review season, bonus decisions)
 - Mid-year recalibration: June-July (half the year is data)
@@ -100,7 +100,7 @@ After designing the curriculum, generate:
 ### Measurement Dashboard
 
 | Metric | Q1 | Q2 | Q3 | Q4 | Target |
-|--------|----|----|----|----|--------|
+|----------|-----|-----|-----|-----|--------|
 | Commitments per meeting | | | | | 24-36 (12 members) |
 | Follow-through rate | | | | | 70%+ |
 | Attendance | | | | | 90%+ |
@@ -218,14 +218,14 @@ They're evaluating: "Am I still growing?" Risk: "I've heard it all before." Chai
 5. Honest one-to-ones: "I'm noticing you seem less engaged. What's happening?"
 
 **Trust damaged (confidentiality breach, conflict):**
-1. Address directly — jnever ignore
+1. Address directly — never ignore
 2. Restate norms explicitly
 3. Create opportunity for repair (conversation, not just apology)
 4. Monitor 2-3 meetings closely
 5. If trust doesn't rebuild, consider whether the member should stay
 
 **Silent member:**
-Call within a week: "I bvcn't heard from you. What's going on?" Listen for: business crisis, personal issue, group dissatisfaction, or quiet exit. Offer support or adjustment.
+Call within a week: "I haven't heard from you. What's going on?" Listen for: business crisis, personal issue, group dissatisfaction, or quiet exit. Offer support or adjustment.
 
 **The hard conversation:** Sometimes a member needs to leave — bad fit, toxic behavior, or persistent confidentiality issues. This is one of the hardest Chair decisions. But keeping a wrong-fit member damages the other 11. One honest conversation with the wrong member is better than 11 members wondering why you won't act.
 
@@ -254,9 +254,9 @@ Your curriculum IS your differentiation. The themes you choose, the frameworks y
 Year 1: Master the basics — timing, facilitation, accountability.
 Year 2: Develop signature exercises and techniques.
 Year 3: Build reputation, attract referrals organically.
-Year 4+: Ñeach other Chairs, speak, publish, additional groups.
+Year 4+: Teach other Chairs, speak, publish, additional groups.
 
-The Chair whn� keeps growing keeps their group growing. The Chair Who plateaus watches their group plateau too.
+The Chair who keeps growing keeps their group growing. The Chair whn�Hplateaus watches their group plateau too.
 
 ---
 
@@ -264,7 +264,7 @@ The Chair whn� keeps growing keeps their group growing. The Chair Who plateaus
 
 **Annual Curriculum:** Complete 12-month arc with all month details, marketing language, measurement dashboard.
 
-**Check-In Questions:\** 8-12 curated questions matched to context (maturity, theme, energy), organized by depth, with facilitation tips.
+**Check-In Questions:** 8-12 curated questions matched to context (maturity, theme, energy), organized by depth, with facilitation tips.
 
 **Group Health Assessment:** Diagnostic framework with intervention recommendations.
 
