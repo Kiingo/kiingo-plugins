@@ -1,10 +1,26 @@
 {
   "name": "vistage-chair-toolkit",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "The complete toolkit for peer advisory group facilitators — meeting design, issue processing, exercises, 12-month curricula, writing humanizer, prospect research, outreach campaigns, objection handling, recruitment strategy, and sales coaching. Built for Vistage Chairs, EO moderators, YPO forum officers, and anyone who runs CEO peer groups.",
   "author": {
     "name": "Kiingo AI"
   },
   "homepage": "https://github.com/Kiingo/kiingo-plugins",
-  "keywords": ["vistage", "peer-advisory", "facilitation", "chair", "CEO", "meeting-design", "issue-processing", "exercises", "curriculum", "humanizer", "recruitment", "outreach", "objection-handling", "sales-coaching", "prospect-research"]
+  "keywords": [
+    "vistage",
+    "peer-advisory",
+    "facilitation",
+    "chair",
+    "CEO",
+    "meeting-design",
+    "issue-processing",
+    "exercises",
+    "curriculum",
+    "humanizer",
+    "recruitment",
+    "outreach",
+    "objection-handling",
+    "sales-coaching",
+    "prospect-research"
+  ]
 }
