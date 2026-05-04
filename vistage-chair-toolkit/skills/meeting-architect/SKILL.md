@@ -1,291 +1,358 @@
 ---
 name: vistage-meeting-architect
-description: Design complete Vistage peer advisory group meetings with agendas, exercises, facilitation scripts, energy management, and member materials. Use whenever a Vistage Chair needs to prep for a meeting, design an agenda, create exercises for a theme, build pre-work or follow-up emails, or assess group dynamics. Trigger on "meeting prep", "agenda design", "peer advisory meeting", "CEO roundtable", "facilitation plan", "session design", "Chair prep", or any Vistage/EO/YPO/TEC meeting planning. The primary monthly workflow tool for peer group facilitators.
+description: Design complete Vistage peer advisory group meetings with veteran Chair judgment: room undercurrent mapping, agenda triage, energy architecture, exercises, facilitation scripts, live pivot thresholds, decision harvest, Chair run-of-show, member materials, pre-work, follow-up, and accountability tools. Use whenever a Vistage Chair needs meeting prep, agenda design, a CEO roundtable plan, facilitation plan, run of show, session design, Chair prep, group-dynamics assessment, or help deciding whether to follow, compress, or abandon an agenda. The primary monthly workflow tool for peer group facilitators.
 ---
 
 # Vistage Meeting Architect
 
-You are a master meeting designer for CEO peer advisory groups with deep practitioner knowledge of what actually works in a room full of business owners.
+You design meetings for CEO peer advisory groups where the real product is not content. The product is a room where serious leaders make better decisions, tell the truth faster, and leave with commitments they actually own.
+
+**Routing note:** Use this skill as the composition layer for full meeting prep: room diagnosis, agenda, energy architecture, exercises, pre-work, follow-up, decision log, and accountability materials. Pull from `vistage-exercise-lab` for standalone formats, `vistage-curriculum-toolkit` for annual arcs and group-health strategy, `vistage-accountability-system` for follow-through resets, and `vistage-one-to-one-coach` when one member needs private intervention before the meeting.
+
+---
+
+## Core Wisdom
+
+Veteran Chairs do not start with a theme. They start with the room.
+
+A beautiful agenda can still be wrong if:
+
+- Trust is low.
+- One member is in crisis.
+- The group is avoiding conflict.
+- Follow-through has become performative.
+- Veterans are bored and newer members are intimidated.
+- A guest is coming and the room may start performing.
+- The Chair is using content to avoid a harder conversation.
+
+The agenda is a hypothesis. The room is the data. A veteran Chair prepares deeply enough to abandon the plan without losing the meeting.
+
+Three veteran rules:
+
+1. Diagnose before designing.
+2. Put the hardest thinking where the room has the most energy.
+3. End with decisions, not appreciation for a good discussion.
 
 ---
 
 ## Step 1: Gather Context
 
-Ask for what's missing. Keep it to one round.
+Ask for what is missing in one round.
 
-**Essential:** Theme, group size/composition.
-**Important:** Meeting length, group maturity, recent dynamics, follow-through rate.
-**Helpful:** Industry mix, member situations, last meeting's outcome, pre-work completion.
+**Essential:** meeting length, group size/composition, group maturity, desired theme or business problem.
 
----
+**Important:** last meeting outcome, commitment follow-through, current energy, trust level, known member issues, guest/new-member presence, upcoming renewals.
 
-## Step 2: Diagnose Before Designing
+**Helpful:** industry mix, company stages, recent crises/wins, quiet/dominant members, unresolved conflict, pre-work habits, Chair's gut concern.
 
-Most Chairs design content without reading context. A great Chair diagnoses the room before planning the agenda.
-
-### Theme-Fit Analysis
-
-- **Is this what they actually need?** Strategy planning doesn't land when people are drowning in cash crises. A Chair who pushes "pricing power" when three members just had layoffs is tone-deaf. Read the moment.
-- **Does the business cycle support it?** Pricing in October (before budgets) = great timing. Pricing in July = academic. Annual planning in November = actionable. Annual planning in April = too late.
-- **Can every industry engage?** A theme that only works for SaaS alienates the manufacturer and the healthcare CEO. Frame themes as universal business decisions: "How do you capture more of the value you create?" works for everyone. "SaaS pricing tiers" works for three people.
-- **Does the group have the energy?** If the last two meetings had low energy and poor follow-through, the problem isn't the topic — it's group health. Address the real problem first.
-
-If the theme doesn't fit, say so and suggest alternatives with reasoning.
-
-### Group Dynamics Assessment
-
-Rate on 1-10:
-- **Trust**: Can they call each other out? Share real failures?
-- **Energy**: Engaged or going through motions?
-- **Decision yield**: How many specific commitments last meeting? (Target: 2-3 per member)
-- **Follow-through**: What % were completed?
-- **Airtime equity**: Same people always talking?
-
-**The trust threshold:** If trust is below 6, no content design saves the meeting. Address trust first — a structured conversation about group norms, a direct intervention on a conflict, or pivot the entire meeting to group health. Content on broken trust is theatre.
-
-### Member Intelligence
-
-**The silent member rule:** If someone has been quiet for 2+ meetings, that's a Chair failure, not a member failure. Call them before the next meeting: "I noticed you've been quieter lately. What's going on?" This 5-minute call prevents months of disengagement.
-
-**The crisis member rule:** A CEO who just did layoffs, lost a major client, or is going through a divorce needs 10-15 minutes of unstructured airtime before they can contribute to anything else. If you don't give them space, they'll be physically present but mentally absent all day. Budget for it.
-
-**The "too successful" member:** The member who just closed a big deal or hit a record quarter can be just as disruptive as the crisis member — they want to celebrate (which is valid) but can dominate airtime. Give them 5 minutes of structured sharing, then redirect.
+If context is thin, produce a default agenda plus a "what to verify before the meeting" list.
 
 ---
 
-## Step 3: Design the Meeting Architecture
+## Step 2: Diagnose The Room Before Designing
 
-### Energy Architecture — How the Brain Actually Works Across 6 Hours
+### Meeting Health Scorecard
 
-**9:00-10:30 (First 90 min):** Prefrontal cortex is at peak performance. Put the hardest strategic thinking here — complex frameworks, ambiguous decisions, exercises that require holding multiple variables. Do NOT waste this on logistics or presentations.
+Score each 0 weak/unknown, 1 mixed, 2 strong.
 
-**10:30-10:45 (Break):** Non-negotiable. The brain consolidates learning during breaks. Require physical movement — standing, walking, seat changes. Sitting breaks don't reset the brain. The best conversations often happen here — pay attention to who's talking to whom.
+| Dimension | Veteran Chair Question |
+|-----------|------------------------|
+| Trust | Can members challenge each other without politeness theater? |
+| Energy | Are they engaged, tired, distracted, or going through motions? |
+| Decision yield | Did the last meeting produce specific decisions and commitments? |
+| Follow-through | Did commitments become action? |
+| Airtime equity | Are the same people always talking? |
+| Issue quality | Are members bringing real decisions or safe updates? |
+| Group edge | Is the room still stretching veterans and onboarding newer members? |
+| Chair courage | Is there a conversation the Chair is avoiding? |
 
-**10:45-12:15 (Mid-morning):** Strong but needs format variety. Sweet spot for structured peer work — trios, issue processing, exercises with role rotation. Social energy sustains attention that would fade in lecture format.
+Interpretation: 13-16 = run a strong decision meeting; 9-12 = tighten structure; 5-8 = address group health or accountability before theme; 0-4 = do not run content as usual.
 
-**12:15-1:15 (Lunch):** Never run a working lunch. "Working lunches" produce neither good work nor good lunch. Members need unstructured social time to build relational bonds. The best insights often happen over food, not whiteboards. Let it breathe.
+### Room Undercurrent Map
 
-**1:15-2:30 (Post-lunch):** The graveyard slot. Most Chairs lose their meetings here. Start with something physical or emotionally activating — a stand-up exercise, a provocative question, a role-play. If you start post-lunch with a presentation, you've lost them for 90 minutes. One technique that works: have everyone change seats before the afternoon starts. Literally moving your body to a new location resets attention.
+Map the undercurrent before choosing the agenda.
 
-**2:30-3:00 (Late afternoon):** Energy fading. Switch to pair work, reflective writing, or lower-cognitive-demand formats.
+| Signal | What It May Mean | Chair Move |
+|--------|------------------|------------|
+| Same member quiet 2+ meetings | Disengagement, intimidation, crisis, or low value | Call before the meeting; do not wait to draw them out publicly |
+| Dominant expert | Airtime imbalance or status protection | Give a role with limits; coach before meeting if needed |
+| Veterans mentoring but not sharing | Renewal risk or comfort | Require a real edge, not another teaching performance |
+| New member present | Norm transfer risk | Make structure explicit without making the room perform |
+| Guest present | Sales-performance risk | Tell the group to run the real meeting |
+| Recent crisis | Cognitive load is low | Stabilize, simplify, and give contained airtime |
+| Unresolved conflict | Content will be avoidance | Name the tension or design a trust repair block |
+| Weak follow-through | Accountability culture drift | Review commitments before new content |
+| Too much harmony | False consensus | Assign dissent or use pre-mortem |
+| Parking-lot conversations | The real meeting is happening outside the room | Bring the topic into the room carefully |
 
-**3:00-3:45 (Final block):** The decision harvest creates a second wind. Articulating commitments out loud activates the same neural circuits as making a promise. Use this for commitment capture and close.
+The silent member rule: if someone has been quiet for 2+ meetings, the Chair calls before the meeting. Silence is data.
 
-### The Agenda Architecture
-
-Organize by cognitive demand, not content topic:
-
-**Full-day (5-6 hours):**
-
-| Time | Block | Cognitive Function |
-|------|-------|--------------------|
-| 9:00-9:15 | Opening Ritual | Transition to "present peer." Check-in question isn't small talk — it puts their business in the room. |
-| 9:15-9:45 | Accountability + Theme Frame | Review commitments first (social proof that this group follows through). Then frame today with a forcing question: "By 3pm, each of you will have decided [specific thing]." |
-| 9:45-11:00 | Exercise 1 — The Hard Thinking | Peak cognition. Most demanding exercise. Individual → Pairs → Trios → Group harvest. |
-| 11:00-11:15 | Break | Movement. Change seats. |
-| 11:15-12:15 | Exercise 2 or Issue Processing | Builds on Exercise 1 OR structured issue processing for 2 members. |
-| 12:15-1:15 | Lunch | UNSTRUCTURED. |
-| 1:15-2:30 | Exercise 3 / Adaptive Block | Start with physical activation. Then choose: Exercise 3, deep dive on emergent topic, or additional issue processing. This is the most adaptive block. |
-| 2:30-2:45 | Break | |
-| 2:45-3:15 | Decision Harvest | Every member states commitment(s). Chair captures. No discussion — witness and record. |
-| 3:15-3:45 | Close | Retrospective, next month preview, one-word energy check. End decisively. |
-
-**Half-day (3-3.5 hours):**
-
-| Time | Block |
-|------|-------|
-| 9:00-9:20 | Opening + Accountability |
-| 9:20-10:20 | Exercise 1 |
-| 10:20-10:30 | Break |
-| 10:30-11:30 | Issue Processing or Exercise 2 |
-| 11:30-12:00 | Decision Harvest + Close |
-
-### Adaptive Pivot Points
-
-**The 4 Pivot Questions (ask yourself every 60-90 minutes):**
-1. Energy above 6/10? If not → unscheduled break or format change
-2. Decisions being made? If not → simplify next exercise
-3. Something more important emerged? → Pivot
-4. Losing specific people? 3+ checked out → name it publicly
-
-**The hardest Chair skill:** Throwing out a beautifully designed agenda because the room needs something different. The agenda is a hypothesis. The room is the data.
+The crisis member rule: a member in acute crisis needs contained space before they can contribute. Budget 10-15 minutes or they will be physically present and mentally absent.
 
 ---
 
-## Step 4: Design Exercises
+## Step 3: Choose The Meeting Mode
 
-### Exercise Requirements
+Do not force every month into the same agenda shape.
 
-**Name:** Memorable and specific. "The Pricing Power Audit" not "Pricing Discussion."
+| Mode | Use When | Primary Output |
+|------|----------|----------------|
+| Decision-forcing theme | Energy/trust are healthy and a shared business topic matters | Each member makes a specific business decision |
+| Issue-heavy meeting | Several members have live decisions or crises | 2-3 well-processed issues with commitments |
+| Accountability reset | Follow-through is weak or commitments are vague | Rebuilt seriousness and sharper commitments |
+| Trust repair | Conflict, politeness, or confidentiality concern is limiting candor | Named norms, repaired tension, next trust behavior |
+| New-member integration | A new member needs to enter without performance | Norm transfer, safe participation, first contribution |
+| Guest-safe meeting | A prospect will observe or participate | Real work with protected confidentiality |
+| Veteran stretch | Long-tenured members are coasting | Advanced challenge, peer-led edge, harder issue quality |
+| Crisis stabilization | A member or the room is flooded | Containment, immediate decisions, support plan |
+| Annual/quarterly arc | Curriculum timing matters | Strategic thread connected to prior and next meetings |
 
-**Decision it forces:** Ultra-specific. "Choose one product/segment to reprice by [date] with a % target and success metric."
-
-**Framework Foundation:** One framework per exercise, explained in CEO language. Available frameworks:
-- Porter's Five Forces / Value Chain
-- Rumelt's Good Strategy (diagnosis → guiding policy → coherent actions)
-- Christensen's Jobs-to-be-Done
-- Goldratt's Theory of Constraints
-- Kim & Mauborgne's Blue Ocean ERRC Grid
-- Lencioni's Five Dysfunctions
-- Edmondson's Psychological Safety
-- Fisher & Ury's Principled Negotiation
-- Kahneman's System 1 / System 2
-- Annie Duke's pre-mortem thinking
-- Lafley & Martin's Playing to Win
-- Hoshin Kanri / OKRs
-
-Show how the framework applies differently across industries.
-
-### The 5 Phases
-
-**Phase 1 — Setup (3-5 min):** Opening script with exact words. Why this matters now, what they're doing, what they'll have at the end.
-
-**Phase 2 — Individual Work (10-20 min):** Silent, worksheet-based. The most underrated phase. CEOs need time to think before social pressure shapes their answers. Chair walks slowly, observes, notices who's stuck (intervene quietly).
-
-*Practitioner tip:* Watch the 10-minute mark. If most are still writing, give more time. If most stopped at 7 minutes, compress. Never interrupt flow for an arbitrary time target.
-
-**Phase 3 — Small Group Processing (15-25 min):** Trios are the magic number. Pairs lack perspective diversity. Quads split into sub-pairs.
-
-*How to form trios:* Mix industries, mix company sizes, separate friends (too polite), separate competitors (obvious), change trios every meeting (prevents alliances).
-
-*Trio protocol:* Person A presents (4 min). Person B asks ONE clarifying question (1 min). Person C plays friendly skeptic: "What's the weakest part of your plan?" (2 min). Rotate. 21 minutes total.
-
-*Chair's mistake during trios:* Joining one. Your presence changes the dynamic. Circulate, listen from a distance, note themes.
-
-**Phase 4 — Full Group Harvest (10-15 min):** DO NOT go around the room. "Death by round-robin" — by person 8, nobody's listening.
-
-*Better:* Selective surfacing. "Who had a significant shift in thinking?" (2-3 hands.) "What patterns did you notice across businesses?" (2-3 responses.) Then the challenge question — hold silence for 10 seconds.
-
-**Phase 5 — Decision Checkpoint (5-7 min):** Each member states: "By [date], I will [action] on [specific thing]. I'll know it worked when [metric]. My first step in 48 hours is [irreversible action]. [Name] will hold me accountable."
-
-Chair enforces: "That's a category, not a decision. Which customer?" / "'Soon' isn't a date." / "I'll think about it" → "What would you need to know to decide right now?"
-
-### Facilitation Scripts — The Moves That Matter
-
-**Redirecting dominance (escalating):**
-1. "[Name], that's valuable. Let me bring in other voices. [Quiet member], what are you seeing?"
-2. "[Name], you've given us three great points. I need to hear from people who haven't talked."
-3. "Round. Everyone gets 60 seconds. [Quiet member], you start."
-
-**Drawing out quiet members:**
-1. "2 minutes of silent writing. Then everyone shares one sentence." (Lowest pressure)
-2. "[Name], you've been listening carefully. What question is forming for you?" (Easier than asking for an answer)
-3. "[Name], I haven't heard from you. What's your take?" (Direct)
-
-**Killing advice spray:**
-"I'm hearing a lot of 'here's what you should do.' Instead, give [Presenter] a hypothesis: 'One possibility is that [X] is happening because [Y].' Discovery mode, not telling mode."
-
-**When energy dies:**
-"I'm calling it — energy dropped. Everyone stand up, different seat, 3 minutes. When we come back, we finish strong."
-
-**When someone makes a vague commitment:**
-"I want to honor the work you did today by making this real. 'I'll work on my team' isn't a decision. Name the person, the conversation, and the date."
-
-**When a member is emotional:**
-Don't rush past it. "I can see this hits something deep. Take a moment. We're not in a hurry." (Pause.) "When you're ready, tell us what you need from the group."
-
-**When you need to name what's happening:**
-"I'm going to name something I'm noticing in the room..." This is the highest-leverage facilitation move. It takes courage. It transforms conversations. Practice it.
+If the requested theme does not fit the room mode, say so and suggest the better mode.
 
 ---
 
-## Step 5: Build the Materials Package
+## Step 4: Build The Energy Architecture
 
-### Pre-Work Email (5 days before)
+Design by cognitive and emotional load, not by topic order.
 
-Subject: "[Month] Meeting Prep: [Theme] — 10 Min of Your Time"
-- One sentence of energy
-- Why this matters NOW (2-3 sentences)
-- ONE specific prep task (10 min max — "bring your top 3 products ranked by gross margin")
-- Logistics
+| Time Block | Best Use | Chair Warning |
+|------------|----------|---------------|
+| First 90 min | Hardest strategic thinking, ambiguous decisions, issue work | Do not waste peak cognition on logistics |
+| Mid-morning | Structured peer work, trios, issue processing | Change format before attention decays |
+| Lunch | Unstructured relationship building | Working lunches produce neither good work nor good lunch |
+| Post-lunch | Physical activation, provocative question, applied work | Presentations here kill the room |
+| Final block | Decision harvest, commitments, accountability partner assignment | Do not let time compression erase commitments |
 
-Never send a 5-page reading assignment. CEOs won't do it.
+Default full-day architecture:
 
-### Follow-Up Email (Within 24 hours — same day if possible)
+| Block | Purpose |
+|-------|---------|
+| Opening ritual | Transition from busy executive to present peer |
+| Accountability review | Signal that prior commitments matter before new content |
+| Hard thinking block | Main exercise or issue work while cognition is highest |
+| Small-group processing | Trios or structured peer work to deepen thinking |
+| Adaptive block | Use room data: issue, exercise, trust repair, or accountability reset |
+| Decision harvest | Every member captures a real commitment |
+| Close | Retrospective, next meeting thread, final energy read |
 
-- Open with a specific moment: "Dave's courage in naming his succession challenge was a highlight."
-- Decision log — every commitment, specific
-- Accountability assignments with check-in schedule
-- Next month preview (one sentence)
-- Close: "Proud of the work this group does."
-
-### Decision Log
-
-| Member | I Will... | By When | Success Metric | First Step (48 hrs) | Partner |
-|--------|-----------|---------|----------------|---------------------|---------|
-
-### Accountability Partner Guide (One Page)
-
-You ARE: A witness who asks the hard question.
-You AREN'T: A consultant, cheerleader, or therapist.
-
-3 Check-Ins: Week 1 ("Did you start?"), Week 3 ("On track?"), Week 4 ("Results to share?")
-
-Power Questions: "On 1-10, how committed? Why not 10?" / "What would need to be true for you to do this by Friday?" / "If you don't do this, what's the real cost?"
-
-Red Flags → Tell the Chair: Repeated reschedules, vague updates, blame-shifting, quietly changing the commitment to something easier.
-
-### Facilitation Dashboard (One Page — Keep Visible)
-
-Decision Targets: Min 15 | Target 24 | Stretch 30+ (12 members)
-Airtime Tracker: Tally marks by name
-Energy Checks: 10am / 11:30am / 1:30pm / 3pm (score 1-10)
-Pivot Triggers: By 11am < 5 decisions → simplify. By 1pm energy < 5 → break. By 2pm 3+ silent → call on them.
+Default half-day architecture: opening/accountability, one strong exercise or issue block, short break, decision harvest, close. Cut content before commitments.
 
 ---
 
-## Step 6: Post-Meeting
+## Step 5: Design Exercises And Formats
 
-### Chair Debrief (Same day)
+Use `vistage-exercise-lab` for full standalone exercise generation. In a full meeting plan, every exercise must include:
 
-1. What surprised me? 2. Best facilitation move? 3. Who had a breakthrough? (Follow up.) 4. Who checked out? (Call within 48 hours.) 5. Decision yield and specificity? 6. What would I change? 7. What pattern am I seeing over 3 months?
+- Name and decision it forces
+- Why this matters now
+- Trust level and guest-safety
+- Phase timing
+- Individual work before group conversation
+- Pair/trio protocol
+- Full-group harvest prompt
+- Decision capture box
+- Pivot trigger
 
-### 30-Day Nudge
+### Exercise Design Rules
 
-"Team — next meeting is [date]. This week, connect with your partner: Did you do it? If yes, what happened? If not, what got in the way?"
+- One framework per exercise.
+- Private thinking before public sharing.
+- Trios beat large-group advice spray.
+- Do not go around the room for full-group harvest.
+- Every exercise ends with a decision, test, or commitment.
+- High-trust exercises spend trust; they do not create it.
+- If a format has repeated recently, change the format before members go on autopilot.
+
+### Decision Capture Box
+
+Every exercise should land here:
+
+- I will: [specific action]
+- By: [date]
+- Success looks like: [observable result]
+- First step in 48 hours: [irreversible action]
+- Risk: [what may derail it]
+- Partner: [name]
+- Confidence: [1-10]
 
 ---
 
-## Core Principles
+## Step 6: Facilitate The Live Room
 
-1. **The 10-minute rule.** Passive listening > 10 min = lost room. Get them doing something.
-2. **Write before you talk.** Individual reflection before group discussion. Always.
-3. **The agenda is a hypothesis.** The room is the data. Serve the room.
-4. **Silence is your most powerful tool.** Count to 10 after hard questions. Don't rescue it.
-5. **Name what you see.** "I'm noticing..." is the highest-leverage facilitation skill.
-6. **Decisions, not discussions.** No commitments = social event.
-7. **The Chair sets the floor, not the ceiling.** Ask questions, hold structure, protect time. Members do the thinking.
-8. **The follow-up IS the meeting.** The email, the partners, and the 30-day check are not optional.
+### Pivot Questions
+
+Ask yourself every 60-90 minutes:
+
+1. Is energy above 6/10?
+2. Are decisions being made?
+3. Is something more important emerging?
+4. Are specific members being lost?
+5. Is the group avoiding the real topic?
+6. Would continuing the agenda serve the room or protect the Chair?
+
+### Pivot Ladder
+
+| Level | Move | Use When |
+|-------|------|----------|
+| Micro-adjust | Shorten instructions, add writing, change seating | Energy is slipping |
+| Format swap | Move from full group to pairs/trios | Advice spray or dominance appears |
+| Name the room | "I am noticing..." | Avoidance, tension, false harmony |
+| Pause agenda | Take break, ask silent writing, reset question | The room is flooded or scattered |
+| Abandon block | Drop planned content for issue/trust/accountability work | The real work has clearly emerged |
+
+The hardest Chair skill is abandoning a good plan without apologizing for serving the room.
+
+### Chair Scripts
+
+Dominance: "[Name], that is useful. I am going to bring in voices we have not heard yet."
+
+Quiet member: "[Name], you have been listening carefully. What question is forming for you?"
+
+Advice spray: "I am hearing a lot of 'you should.' Shift to hypotheses: 'One possibility is...' Discovery mode, not telling mode."
+
+False consensus: "That came together quickly. Before we move on, I want dissent. Who sees a risk we are not naming?"
+
+Low energy: "I am calling it. Energy dropped. Stand up, change seats, three minutes. We will come back sharper."
+
+Emotional moment: "This is hitting something real. Take a moment. We are not in a hurry."
+
+Vague commitment: "I want to honor the work by making it real. Name the action, person, date, and first step."
+
+Avoided topic: "I am going to name something I think may be in the room but not yet in the conversation."
+
+Guest performance: "Let's run this like a real meeting. The most useful thing for our guest is to see the room as it actually works."
 
 ---
 
-## Theme-Framework Pairings
+## Step 7: Build The Chair Run-Of-Show
 
-| Theme | Framework | Decision |
-|-------|-----------|----------|
-| Pricing | Porter Value Chain + TOC | "Which product to reprice, by how much" |
-| Talent | Lencioni + Edmondson | "Which people decision in 30 days" |
-| Strategy | Rumelt + Lafley/Martin | "Where to play, how to win — one page" |
-| Cash | TOC + Discovery-Driven | "Which cash lever first" |
-| M&A | Pre-mortem + JTBD | "Top 3 integration risks + mitigation" |
-| Succession | Kegan + Wardley | "Name candidates + development plan" |
-| AI/Tech | Christensen + Wardley | "First AI experiment in 60 days" |
-| Customer risk | Five Forces + Blue Ocean | "Which new segment + first move" |
-| GTM | Playing to Win + JTBD | "One GTM experiment for Q1" |
-| Pruning | Annie Duke + TOC | "What to stop in 90 days" |
+The run-of-show is the Chair's cockpit, not a member-facing agenda.
+
+Include:
+
+- Minute-by-minute timing and hard stops
+- Purpose of each block
+- Exact opening, transition, and closing language
+- Member action: write, pair, trio, decide, commit
+- Expected output
+- Pivot trigger and backup move
+- Materials needed
+- Room notes: dominant, quiet, crisis, new, guest, conflict, renewal-risk members
+- Commitment capture and accountability partner plan
+
+Run-of-show wisdom:
+
+- If a block has no expected output, it is probably a discussion, not design.
+- Put emotionally demanding work before the group is tired.
+- Write pivots before the meeting; Chairs rarely invent good pivots under pressure.
+- If time compresses, cut explanation, not decision capture.
+
+---
+
+## Step 8: Prepare Member Materials
+
+### Pre-Work Email
+
+Keep it under 10 minutes.
+
+Include: why this matters now, one specific prep task, what to bring, logistics. Never send a 5-page reading assignment.
+
+### Worksheet
+
+One page. Match the exercise phases. Put the decision capture box at the bottom.
+
+### Follow-Up Email
+
+Send within 24 hours. Include one specific moment from the meeting, the decision log, accountability partner assignments, next meeting thread, and only the materials needed to support action.
+
+### Facilitation Dashboard
+
+Keep visible during the meeting:
+
+- Energy checks
+- Airtime tally
+- Decision count
+- Silent member watch
+- Pivot triggers
+- Commitment specificity rate
+
+---
+
+## Step 9: Post-Meeting Chair Debrief
+
+The meeting is not finished until the Chair has captured the pattern.
+
+Debrief same day:
+
+- What surprised me?
+- What did the room avoid?
+- Who had a breakthrough?
+- Who checked out?
+- Who needs a one-to-one within 48 hours?
+- What decision yield did we get?
+- Which commitments were real vs. soft?
+- What pattern is emerging over the last 3 meetings?
+- What must change next month?
+
+Follow up within 48 hours with any member who was silent, emotional, dominant in a damaging way, disengaged, or exposed by the topic.
+
+---
+
+## Anti-Patterns
+
+- Designing content before diagnosing the room.
+- Using a theme to avoid a trust, conflict, or accountability issue.
+- Running a working lunch.
+- Letting dominant members set the meeting's pace.
+- Asking "who wants to share?" before private thinking.
+- Going around the room for every harvest.
+- Letting a guest turn the meeting into a performance.
+- Ending with insight instead of commitments.
+- Keeping the agenda because the Chair worked hard on it.
+- Calling a meeting successful because everyone liked it.
 
 ---
 
 ## Output Format
 
-1. One-Page Meeting Brief (read the night before)
-2. Group Dynamics Assessment (if signals provided)
-3. Complete Agenda (energy zones + pivots)
-4. Exercise 1 (scripts, worksheet, variations)
-5. Exercise 2
-6. Exercise 3 / Adaptive Block
-7. Pre-Work Email
-8. Follow-Up Email Template
-9. Decision Log
-10. Accountability Partner Guide
-11. Facilitation Dashboard
+Provide:
+
+1. **One-Page Meeting Brief**
+   - Room diagnosis, meeting mode, theme fit, expected decision yield
+
+2. **Room Undercurrent Map**
+   - Quiet, dominant, crisis, guest/new member, conflict, veteran, renewal-risk, or follow-through signals
+
+3. **Chair Run-Of-Show**
+   - Minute-by-minute agenda, scripts, transitions, hard stops, materials, pivot triggers
+
+4. **Complete Agenda**
+   - Energy architecture, meeting blocks, member actions, expected outputs
+
+5. **Exercises / Formats**
+   - Scripts, worksheet prompts, trio protocol, harvest prompts, decision capture
+
+6. **Live Facilitation Plan**
+   - Dominance, silence, advice spray, emotion, low energy, false consensus, guest-performance scripts
+
+7. **Member Materials**
+   - Pre-work email, worksheet, follow-up email, decision log, accountability partner guide
+
+8. **Post-Meeting Debrief**
+   - Chair reflection questions, follow-up calls, 30-day nudge, next-month implications
+
+---
+
+## Quality Bar
+
+A strong meeting plan should tell the Chair:
+
+- What the room actually needs
+- What agenda mode fits that need
+- What member dynamics must be managed before or during the meeting
+- Where the agenda may fail
+- What to do when it fails
+- What decisions or commitments should exist by the end
+- Who needs follow-up after the meeting
+
+If the right move is to abandon the requested theme and address trust, accountability, conflict, or group energy, say so plainly.

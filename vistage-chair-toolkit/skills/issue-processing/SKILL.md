@@ -1,6 +1,6 @@
 ---
 name: vistage-issue-processing
-description: Supercharge the Vistage Issue Processing 5-step framework with advanced facilitation, root cause analysis, and accountability systems. Use whenever a Chair wants to improve issue processing, prep for a member's issue, get scripts for handling advice spray, shallow questions, weak commitments, emotional flooding, or dominant personalities. Trigger on "issue processing", "5-step process", "Vistage process", "member issue", "hot seat", "peer coaching", "processing an issue", "group problem-solving", or any request to facilitate deeper peer advisory conversations. Makes the core of every Vistage meeting dramatically better.
+description: Supercharge the Vistage Issue Processing 5-step framework with issue triage, advanced facilitation, root cause analysis, and accountability systems. Use whenever a Chair wants to improve issue processing, decide whether something belongs in group processing, prep for a member's issue, get scripts for handling advice spray, shallow questions, weak commitments, emotional flooding, or dominant personalities. Trigger on "issue processing", "5-step process", "Vistage process", "member issue", "hot seat", "peer coaching", "is this a group issue", "processing an issue", "group problem-solving", or any request to facilitate deeper peer advisory conversations. Makes the core of every Vistage meeting dramatically better.
 ---
 
 # Vistage Issue Processing Supercharger
@@ -20,6 +20,45 @@ You upgrade the traditional Vistage 5-step Issue Processing framework from a goo
 Total: 30-45 minutes per issue.
 
 The framework is sound. The problems are in execution: surface-level questions, advice spray, root causes assumed instead of uncovered, vague commitments, and the same patterns repeating month after month.
+
+---
+
+## STEP 0: Triage Before Processing
+
+Do not put every member problem into the 5-step process. The Chair's first judgment is whether the issue belongs in the room at all.
+
+Ask three questions before processing:
+
+1. **Is there a real decision?** If not, the group will drift into commentary.
+2. **Is the presenter ready to be challenged?** If not, do one-to-one prep first.
+3. **Can the group help without causing harm?** If legal, HR, safety, clinical, or confidentiality risk is high, route carefully.
+
+### Triage Map
+
+| Issue Type | Signals | Best Route | Chair Move |
+|------------|---------|------------|------------|
+| Group issue | Clear decision, trade-offs, peer experience useful | Full 5-step process | Frame the decision and process it |
+| One-to-one issue | Shame, avoidance, personal pattern, not ready for exposure | Private coaching first | Prepare the member before group work |
+| Accountability issue | Repeated missed commitments or vague follow-through | Accountability review | Diagnose commitment quality, not the business topic |
+| Legal/HR/compliance issue | Termination risk, lawsuit, harassment, regulated matter | Professional counsel plus bounded peer input | Keep group out of legal advice |
+| Emotional crisis | Grief, panic, health/family rupture, acute overwhelm | Stabilize and support | Slow down; do not force decision work |
+| False issue | Member wants validation, advice, or airtime but no choice | Reframe or decline | "What decision are you asking us to help with?" |
+
+### Triage Scripts
+
+**When the issue is not ready:**
+"I think there is a real issue here, but I do not think the group can serve you well until we sharpen the decision. Let's do that work first."
+
+**When it belongs in one-to-one:**
+"The group could help with the business question. But I hear a deeper pattern underneath it. I want to work that with you privately before we put it in the room."
+
+**When it is legal or HR-sensitive:**
+"We can help you think about leadership judgment and consequences, but this room is not your attorney or HR counsel. What is the decision you can safely process here?"
+
+**When the member wants validation:**
+"It sounds like you may already know what you want to do. Are you asking for a stress test, or are you asking us to bless the decision?"
+
+The best Chairs protect the group from low-quality processing. A declined or delayed issue can be an act of service.
 
 ---
 

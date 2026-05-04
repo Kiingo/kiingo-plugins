@@ -1,6 +1,6 @@
 ---
 name: vistage-outreach-campaign
-description: Build a complete, ready-to-execute multi-touch outreach campaign for a specific Vistage prospect. Generates personalized emails, LinkedIn messages, value-bomb content, conversion messages, timing calendars, subject line options, objection responses, and tracking metrics — all in a copy-paste-ready playbook. Use whenever a Chair says "create an outreach campaign for [name]", "write outreach for this prospect", "help me reach [name]", "build a campaign", "draft messages for [name]", "write an email to this CEO", "LinkedIn message for a prospect", "follow-up sequence", "drip campaign for a prospect", "how should I reach out to [name]", or any request to create actual outreach messages for a specific executive. Works best when paired with the Prospect Intelligence Brief skill — run that first to research the prospect, then use this skill to operationalize the insights into a campaign. Also trigger when a Chair has already described a prospect in conversation and wants to create outreach.
+description: Build a complete, ready-to-execute multi-touch outreach campaign for a specific Vistage prospect, with source-specific variants for referrals, events, cold LinkedIn, past guests, former-member referrals, speaker attendees, and stalled prospects. Generates personalized, Chair-reviewed emails, LinkedIn message drafts, value-bomb content, conversion messages, timing calendars, subject line options, objection responses, and tracking metrics — all in a copy-paste-ready playbook. Use whenever a Chair says "create an outreach campaign for [name]", "write outreach for this prospect", "help me reach [name]", "build a campaign", "draft messages for [name]", "write an email to this CEO", "LinkedIn message for a prospect", "follow-up sequence", "drip campaign for a prospect", "how should I reach out to [name]", or any request to create actual outreach messages for a specific executive. Works best when paired with `vistage-prospect-signals` for evidence and `vistage-prospect-intel` for the full brief. Also trigger when a Chair has already described a prospect in conversation and wants to create outreach.
 ---
 
 # Vistage Outreach Campaign Builder
@@ -15,7 +15,7 @@ Before writing a single word, understand:
 
 **About the prospect (essential):** 
 - Name, title, company
-- Key facts about their business situation (ideally from a prospect intel brief)
+- Key facts about their business situation (ideally from a prospect signal fiche or prospect intel brief)
 - How the Chair knows or found them (referral, event, cold outreach, LinkedIn)
 - Any prior interaction (have they met? exchanged messages? attended an event?)
 
@@ -31,7 +31,13 @@ Before writing a single word, understand:
 - Urgency:Upcoming group forming? Open seat to fill? Long-term nurture?
 - Any constraints: "Don't mention Vistage by name yet," "They know a current member," etc.
 
-If the prospect has already been researched in this conversation (via the Prospect Intelligence Brief or earlier discussion), pull from that context. Don't re-research — operationalize.
+If the prospect has already been researched in this conversation (via `vistage-market-map-builder`, `vistage-chair-authority-builder`, `vistage-public-trigger-monitor`, `vistage-referral-source-briefs`, `vistage-stalled-prospect-reviver`, `vistage-prospect-signals`, the Prospect Intelligence Brief, or earlier discussion), pull from that context. Don't re-research — operationalize.
+
+If the source itself needs activation first, use `vistage-referral-activation-engine` before this skill. This skill writes prospect-facing outreach after the introduction path is clear.
+
+If the prospect is stalled, dormant, post-guest undecided, or previously said "not now," use `vistage-stalled-prospect-reviver` first. This skill can write the broader sequence after the revive/nurture/park/pass decision and re-entry reason are clear.
+
+Compliance note: LinkedIn messages are drafts for the Chair to manually review and send. Do not automate LinkedIn sends, connection requests, profile views, comments, likes, or scraping.
 
 ---
 
@@ -41,7 +47,7 @@ Before writing messages, synthesize a brief strategic profile of the prospect. T
 
 **Current pain points** (2-3 specific challenges based on their company stage and role)
 **Communication style** (DISC inference: how do they prefer to receive information?)
-**Decision triggers** (what would make them act nov ss later?)
+**Decision triggers** (what would make them act now vs. later?)
 **Likely objections** (the 1-2 things they'll push back on)
 **Emotional landscape** (what are they feeling? Overwhelmed? Ambitious? Isolated? Skeptical?)
 
@@ -55,7 +61,7 @@ Design the campaign structure before writing any messages.
 
 ### The Standard 5-7 Touch Campaign (3-4 weeks)
 
-| Touch | Day | Channel | Purpose | Psychclogical Function |
+| Touch | Day | Channel | Purpose | Psychological Function |
 |--------|-----|---------|---------|----------------------|
 | 1 | Day 1 | Email or LinkedIn | Open the relationship | Pattern interrupt + relevance |
 | 2 | Day 3-4 | LinkedIn (connect) | Establish presence | Familiarity + social proof |
@@ -81,6 +87,28 @@ Design the campaign structure before writing any messages.
 - **In-person**: Best as the culmination, not the opening. "Coffee" or "guest day" is the close, not the outreach.
 
 Customize the channel mix based on what you know about the prospect. A 40-year-old tech CEO lives on LinkedIn. A 60-year-old manufacturing owner checks email and takes phone calls.
+
+### Source-Specific Campaign Variants
+
+Source determines trust level. Do not use the same sequence for a referral, cold prospect, past guest, and stalled opportunity.
+
+| Source | Starting Trust | First Move | Best Ask | Watch-Out |
+|--------|----------------|------------|----------|-----------|
+| Current member referral | High borrowed trust | Reference the referrer and why they thought of the prospect | Short private conversation | Do not overuse the member's name or imply endorsement beyond what was given |
+| Event follow-up | Warm but shallow | Reference the moment, question, or theme from the event | Continue the specific conversation | Do not send generic "great meeting you" copy |
+| Cold LinkedIn | Low trust | Engage with something real before asking | Permission to share a relevant observation | Do not pitch Vistage in the connection request |
+| Past guest | High experience, unresolved decision | Reference what they experienced in the room | Decision debrief or next-step conversation | Do not re-sell what they already saw; diagnose what held them back |
+| Former-member referral | Medium-high trust | Honor the source and the type of leader they tend to know | Explore fit, not membership | Make sure the former member's relationship with Vistage is positive |
+| Speaker/event attendee | Warm authority | Extend the event insight with a practical question | Peer discussion or small follow-up session | Do not turn education into a bait-and-switch |
+| Stalled prospect | Existing trust, uncertain timing | Name the pause with dignity and bring new relevance | Re-open only if timing has changed | Do not sound like you are chasing |
+
+For each campaign, state the source variant used and adjust:
+
+- Message length
+- How direct the ask can be
+- Whether social proof is appropriate
+- Whether to lead with insight, relationship, or timing
+- How quickly to invite a live conversation
 
 ---
 
@@ -193,7 +221,7 @@ Structure:
 4. **Offer multiple response options** — "You could join the roundtable, or if you'd prefer, I'd be happy to share the key insights afterward." Multiple options increase the probability of a yes.
 5. **Include a negative option that still provides value** — "And if the timing doesn't work, I'll send you the summary — it'll be worth 5 minutes of reading."
 
-**Psychclogical triggers (deployed subtly, not manipulatively):**
+**Psychological triggers (deployed subtly, not manipulatively):**
 - Loss aversion: "The CEOs who figure out [challenge] this year will have a 2-3 year lead on those who don't"
 - Social proof: "Several CEOs in your space are already working through this"
 - Scarcity: "I keep the group to [number] so everyone gets airtime"
@@ -247,6 +275,7 @@ Compile everything into a single, action-ready document:
 
 **1. CAMPAIGN OVERVIEW**
 - Prospect name and key facts (one paragraph)
+- Source variant and trust assumptions
 - Campaign strategy summary (what we're doing and why)
 - Expected timeline (start to close)
 - Success metrics

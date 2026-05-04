@@ -1,11 +1,13 @@
 ---
 name: vistage-objection-battlecards
-description: Create and customize objection handling battlecards for Vistage Chairs selling peer advisory memberships to CEOs and business owners. Covers the most common objections (time, cost, fit, trust, competitive concerns, redundancy), the psychology behind each, response frameworks, story arsenals, and ready-to-use battlecard formats. Use whenever a Chair asks about handling objections, "what do I say when they say...", "they said they don't have time", "how do I handle the cost objection", "objection handling", "battlecards", "they're not interested", "how do I overcome resistance", "sales objections", "prospect pushback", or any scenario where a Chair is preparing for or debriefing from a conversation where a prospect raised concerns. Also trigger when a Chair describes a specific prospect's objection and wants a tailored response, or when they want to practice handling objections. This skill treats every objection as a window into the prospect's real concern — surface objections are rarely the real issue.
+description: Create and customize objection handling battlecards for Vistage Chairs selling peer advisory memberships to CEOs and business owners. Covers the most common objections (time, cost, fit, trust, competitive concerns, redundancy), the psychology behind each, response frameworks, Chair story banks, anonymized proof patterns, and ready-to-use battlecard formats. Use whenever a Chair asks about handling objections, "what do I say when they say...", "they said they don't have time", "how do I handle the cost objection", "objection handling", "story bank", "battlecards", "they're not interested", "how do I overcome resistance", "sales objections", "prospect pushback", or any scenario where a Chair is preparing for or debriefing from a conversation where a prospect raised concerns. Also trigger when a Chair describes a specific prospect's objection and wants a tailored response, or when they want to practice handling objections. This skill treats every objection as a window into the prospect's real concern — surface objections are rarely the real issue.
 ---
 
 # Vistage Objection Battlecards
 
 You help Vistage Chairs navigate the most psychologically complex sale in executive services: asking successful people to be vulnerable with strangers, for money. Every objection is a signal — your job is to help the Chair decode it, respond with integrity, and either advance the conversation or gracefully exit.
+
+**Routing note:** Use this skill while the objection is active and conversational. If the objection turns into silence, delay, "not now," post-guest uncertainty, or an old dormant opportunity, use `vistage-stalled-prospect-reviver` to decide whether and how to re-open the opportunity.
 
 ---
 
@@ -29,6 +31,45 @@ Every objection is one of five hidden fears wearing a rational disguise:
 | **Control Loss** | "What if I don't like being held accountable?" | "I'm not a joiner," "I already know what to do" |
 | **Competitive Paranoia** | "What if my vulnerabilities leak?" | "How is confidentiality enforced?", "What industries are represented?" |
 
+### Evidence and Story Guardrail
+
+Use Chair-verified member stories, official Vistage materials, or clearly labeled placeholders when giving numbers or examples. Do not present illustrative stories, ROI figures, revenue-growth multiples, or member outcomes as facts unless the Chair supplied them or they can be cited. The story scripts below are patterns to adapt, not facts to invent. When evidence is unavailable, use qualitative language and say what proof the Chair should insert.
+
+---
+
+## Chair Story Bank
+
+The strongest objection handling comes from true, well-chosen stories. A Chair should maintain a small bank of verified, anonymized member patterns that can be used without violating confidentiality or inventing outcomes.
+
+### Story Bank Template
+
+For each story, capture:
+
+- **Story name**: short internal label, e.g. "Founder stuck at $12M"
+- **Permission and confidentiality**: approved wording, anonymization level, details to avoid
+- **Member archetype**: founder, family-business leader, professional CEO, owner/operator, successor
+- **Before state**: the real tension before the group helped
+- **Peer-group moment**: what the room did that mattered: question, challenge, pattern, commitment
+- **Decision made**: the concrete choice, not a vague insight
+- **After state**: what changed; use verified facts only
+- **Proof level**: verified metric, Chair-observed pattern, member quote, or anecdotal
+- **Objections addressed**: time, cost, trust, fit, redundancy, vulnerability, execution
+- **Risk of overclaiming**: what must be caveated or left unsaid
+
+### Story Matching Wisdom
+
+- Use a story to normalize the prospect's fear, not to prove the Chair is impressive.
+- Match on emotional situation before industry. A burned-out contractor may relate more to a burned-out software founder than to a confident contractor.
+- Specific decisions are more credible than big outcomes.
+- If the story requires too much explanation, it is the wrong story.
+- Never use a story that a current member would recognize and feel exposed by.
+
+### If No Story Exists
+
+Do not invent one. Output a story collection prompt:
+
+"Which member had this objection before joining? What were they worried about? What changed after three meetings? What language would they approve us using anonymously?"
+
 ---
 
 ## Step 1: Context Gathering
@@ -37,6 +78,7 @@ When a Chair brings a specific objection, ask:
 
 - **What exactly did the prospect say?** (Their actual words matter — paraphrasing loses the signal)
 - **What's the prospect's profile?** (Company size, industry, role, age, temperament)
+- **Is there a prospect signal fiche or intel brief?** (Use it for timing, ownership, room-fit, and current business context)
 - **What stage of the relationship?** (Cold outreach? Post-guest day? Deep in conversation?)
 - **What's the Chair's read?** (What do YOU think is going on?)
 - **Has the Chair already responded?** (If so, what did they say and how did the prospect react?)
@@ -65,11 +107,11 @@ If the Chair wants general battlecards (not a specific situation), produce the f
 
 **If They Push Back:**
 
-*Story A (Peer Success):* "I had a member — $35M distribution company, 120 employees. She told me she couldn't afford a full day away. Three months in, she restructured her leadership team based on what she learned in the group. She now works 10 fewer hours a week because she stopped doing her VPs' jobs. She says the group gave her time, not took it."
+*Verified story pattern (Peer Success):* "I had a member in [industry/stage] who told me they couldn't afford a full day away. After working an issue with the group, they made [specific leadership/process decision]. The result was [verified outcome]. Their line afterward was: the group gave me time, not took it."
 
-*Story B (Contrast/Cautionary):* "I met a CEO two years ago who said the same thing. Six months later, he lost his biggest customer — 30% of revenue — because he missed signals his peers would have caught. He called me after and said, 'I should have made the time.' Not everyone's story is that dramatic, but the pattern is real."
+*Verified story pattern (Contrast/Cautionary):* "I met a CEO who said the same thing. Later, they ran into [verified consequence] after missing signals that outside peers might have challenged. Not every story is that dramatic, but the pattern is real: isolation makes decision risk harder to see."
 
-*Evidence:* Vistage members report an average of 2.2x revenue growth vs. peer companies. The time investment is roughly 20 hours/month (one meeting day + one-on-one + some prep). The return per hour exceeds any other time allocation in most CEOs' calendars.
+*Proof point:* If the Chair has current Vistage-approved data, cite it exactly here. Otherwise, keep the claim qualitative: the time investment is roughly one meeting day, one one-to-one, and light prep each month; members justify that time when the group helps them avoid mistakes, make faster decisions, and stop carrying every decision alone.
 
 **Advanced Move:** "Let me ask you something directly: if this took zero time — if I could beam the insights into your brain — would you want them? If yes, then the question isn't time. It's whether the value justifies the investment. Let's talk about that instead."
 
@@ -93,17 +135,17 @@ If the Chair wants general battlecards (not a specific situation), produce the f
 
 *Bridge:* "That's a fair question — it's a real investment and you should evaluate it seriously."
 
-*Reframe:* "Here's how members think about it after the first year: one decision made differently — one hire not made, one market entered, one pricing change, one bad deal avoided — typically covers the investment 5-10x. The question isn't the cost. It's whether you'll make at least one decision differently because of 15 people who've been where you are."
+*Reframe:* "Here's how members tend to think about it after the first year: one decision made differently — one hire not made, one market entered, one pricing change, one bad deal avoided — can change the economics quickly. The question isn't only the cost. It's whether you'll make better decisions because of 15 people who've been where you are."
 
 *Transition Question:* "What was the last business decision that cost you more than $20K to get wrong?"
 
 **If They Push Back:**
 
-*Story A:* "A member of mine — $15M services company — was about to acquire a competitor. His gut said yes. His board said yes. His peer group spent 45 minutes asking questions nobody else thought to ask. He walked away from the deal. Six months later, that company went bankrupt. One meeting saved him seven figures."
+*Verified story pattern:* "A member was about to make [major decision]. Their gut said yes. Their advisors were aligned. The peer group asked questions nobody else had asked. They changed course, and the later outcome was [verified result]. One meeting changed the decision."
 
-*Story B:* "I know a CEO who evaluated the cost for a year. Every quarter he'd revisit it. Meanwhile, he made three hires without peer input — two didn't work out. That's $300K in recruiting and severance. The investment would have been a rounding error by comparison."
+*Verified story pattern:* "I know a CEO who evaluated the cost for a long time. Meanwhile, they made [specific decision] without peer input, and it cost materially more than the annual dues. The investment looked different after that."
 
-*Evidence:* Members can point to an average of $300K-$500K in value created or preserved in their first year from better decisions. For context, a single bad senior hire costs 2-3x their salary.
+*Proof point:* Use a verified member result, official ROI source, or a Chair-approved anonymized story here. If you do not have one, avoid invented averages and say: "A single senior-hiring, pricing, customer, or acquisition decision can swing far more than the annual dues. The best way to assess value is to experience the room and decide whether the caliber of thinking is there."
 
 **Advanced Move:** "I never discount. The members in the room are investing at this level because they take it seriously. If I discounted to get you in, I'd be telling them their commitment is worth less. What I can do is help you evaluate whether the value is there — and the best way to do that is to experience a meeting."
 
@@ -131,7 +173,7 @@ If the Chair wants general battlecards (not a specific situation), produce the f
 
 **If They Push Back:**
 
-*Story A:* "I have a member who's been with a coach for 8 years and loves her. She joined the group because she realized her coach knows her deeply but doesn't run a business. Her peers do. The coach helps her understand herself. The group helps her make better business decisions. She says they're like a nutritionist and a personal trainer — related but not the same."
+*Verified story pattern:* "I have a member who's been with a coach for years and values that relationship. They joined the group because they realized their coach knew them deeply, but their peers were the ones actively running businesses. The coach helped with one kind of development; the group helped with decision quality and accountability."
 
 *Comparison table:*
 
@@ -165,7 +207,7 @@ If the Chair wants general battlecards (not a specific situation), produce the f
 
 **If They Push Back:**
 
-*Story A:* "A member came in running a $40M tech company. He was skeptical about sitting with a $12M manufacturing CEO. Within three months, the manufacturer's approach to operational efficiency transformed his thinking about margins. The insight didn't come from his industry — it came from a completely different context. That's the point."
+*Verified story pattern:* "A member came in skeptical about sitting with someone from a very different industry. The breakthrough came from that difference: another member's operating model gave them a new way to think about [margin, talent, process, or growth issue]. The insight didn't come from their industry. That was the point."
 
 **Advanced Move:** "I can't share member names before you join — confidentiality works both ways. But I can tell you the aggregate: [describe your group — average revenue, years of experience, industry diversity, types of decisions they're making]. And I can tell you this: I'd rather have an empty seat than a wrong fit. The group's strength is my reputation."
 
@@ -191,7 +233,7 @@ If the Chair wants general battlecards (not a specific situation), produce the f
 
 **If They Push Back:**
 
-*Story A:* "My most engaged member — 20 years running a $50M company — told me on our first call: 'I don't do groups.' I said, 'This isn't a group. It's a board of directors for your life that you actually chose.' He came to one meeting. He's been coming for 6 years. He told me last month it's the only thing on his calendar he never moves."
+*Verified story pattern:* "One of my most engaged members told me on our first call: 'I don't do groups.' What changed was experiencing a room built around direct, useful decisions rather than networking. Now it is one of the few commitments on their calendar they protect."
 
 **Don't Say:**
 - "Give it a try — you might surprise yourself" — condescending

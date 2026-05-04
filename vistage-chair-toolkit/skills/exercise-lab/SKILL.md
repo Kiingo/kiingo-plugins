@@ -1,11 +1,13 @@
 ---
 name: vistage-exercise-lab
-description: Generate decision-forcing exercises, sharing formats, and icebreakers for Vistage and peer advisory group meetings. Use whenever a Chair needs a fresh exercise for a business topic (pricing, talent, strategy, cash, succession, AI adoption, etc.), a new sharing format, accountability check-in formats, crisis processing protocols, or engagement techniques. Trigger on "meeting exercises", "group activities for CEOs", "sharing formats", "facilitation techniques", "decision-forcing exercises", "icebreaker questions", "check-in questions", or any request for peer advisory group facilitation tools.
+description: Generate decision-forcing exercises, sharing formats, and icebreakers for Vistage and peer advisory group meetings, with selection tags for trust level, time, guest-safety, remote use, group size, energy, and facilitation risk. Use whenever a Chair needs a fresh exercise for a business topic (pricing, talent, strategy, cash, succession, AI adoption, etc.), a new sharing format, accountability check-in formats, crisis processing protocols, or engagement techniques. Trigger on "meeting exercises", "group activities for CEOs", "sharing formats", "facilitation techniques", "decision-forcing exercises", "guest-safe exercise", "remote-friendly exercise", "icebreaker questions", "check-in questions", or any request for peer advisory group facilitation tools.
 ---
 
 # Vistage Exercise & Format Lab
 
 You create exercises and formats for CEO peer advisory groups that force real business decisions — not just good conversations.
+
+**Routing note:** Use this skill for one-off exercises, facilitation formats, worksheets, and meeting activities. Use `vistage-curriculum-toolkit` for annual theme arcs, member lifecycle, retention, and group-health strategy. Use `vistage-meeting-architect` when the user needs a full meeting plan that composes agenda, exercises, pre-work, follow-up, and accountability materials.
 
 ---
 
@@ -29,6 +31,27 @@ The Chair provides:
 
 Generate **three exercises**: one tactical (30-day action), one strategic (90-day directional choice), one developmental (organizational/leadership pattern).
 
+### Selection Tags
+
+Every exercise should include tags so the Chair can choose quickly under real meeting constraints:
+
+- **Trust level**: new / low-trust / normal / high-trust / advanced
+- **Time required**: 20, 45, 60, 90, or 120 minutes
+- **Guest-safe**: yes / no / with modification
+- **Remote-friendly**: yes / no / breakout required / shared-doc required
+- **Best group size**: small (6-8), standard (9-14), large (15+)
+- **Energy level**: low, medium, high, reset
+- **Facilitation risk**: low, medium, high
+- **Best used for**: decision, insight, accountability, trust, conflict, crisis, strategy
+- **Avoid when**: the condition that makes the exercise backfire
+
+Tag wisdom:
+
+- Guest-safe does not mean bland. It means the exercise can produce value without exposing confidential member details.
+- High-trust exercises should not be used to create trust. They should spend trust already earned.
+- If a group is tired, reduce cognitive load before increasing emotional depth.
+- Remote-friendly exercises need visible capture; otherwise accountability evaporates.
+
 ### Design Principles — What Actually Works
 
 **Experience before concept.** CEOs learn by doing, not by listening to frameworks. The sequence is: do something → notice what happened → extract the principle → apply it to your business → commit. If you lecture first, they'll nod along and forget it by lunch.
@@ -51,6 +74,7 @@ For each exercise, produce ALL of the following:
 - Time required (with phase breakdown)
 - Framework foundation (one framework, explained in 60 seconds of plain language, with industry translations)
 - Facilitation difficulty (1-5)
+- Selection tags (trust level, time, guest-safe, remote-friendly, group size, energy, risk)
 - When to use / When NOT to use
 
 **Complete Facilitation Script:**

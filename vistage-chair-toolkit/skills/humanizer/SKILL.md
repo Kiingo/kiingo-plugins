@@ -24,6 +24,10 @@ When given text to humanize:
 4. **Maintain voice** - Match the intended tone (formal, casual, technical, etc.)
 5. **Add soul** - Don't just remove bad patterns; inject actual personality
 
+## Non-Negotiable Accuracy Rule
+
+Do not invent specificity. Humanizing vague or AI-sounding text does not give you permission to add fake citations, named sources, interviews, quotes, metrics, dates, studies, customers, or anecdotes. If the original text makes an unsupported claim, either rewrite it more plainly without adding evidence, preserve the uncertainty, or add a bracketed note such as `[source needed]` when the user is asking for an edited draft that can retain editorial notes.
+
 ---
 
 ## PERSONALITY AND SOUL
@@ -423,13 +427,11 @@ Provide:
 > In conclusion, the future looks bright. Exciting times lie ahead as we continue this journey toward excellence. Let me know if you’d like me to expand on any section!
 
 **After (Humanized):**
-> AI coding assistants speed up some tasks. In a 2024 study by Google, developers using Codex completed simple functions 55% faster than a control group, but showed no improvement on debugging or architectural decisions.
+> AI coding assistants are useful for some work, especially the repetitive parts: config files, test scaffolding, simple refactors, and boilerplate that nobody wants to type by hand.
 >
-> The tools are good at boilerplate: config files, test scaffolding, repetitive refactors. They are bad at knowing when they are wrong. I have mass-accepted suggestions that compiled, passed lint, and still did the wrong thing because I stopped paying attention.
+> The risk is that they sound confident even when they're wrong. I have accepted suggestions that compiled, passed lint, and still did the wrong thing because I stopped paying attention.
 >
-> Mira, an engineer at a fintech startup I interviewed, said she uses Copilot "like autocomplete for boring code" but reviews every line before committing. Jake, a senior dev at a larger company, disabled it after it kept suggesting patterns from a deprecated internal library.
->
-> The productivity claims are hard to verify. GitHub says Copilot users "accept 30% of suggestions," but acceptance is not correctness, and correctness is not value. The 2024 Uplevel study found no statistically significant difference in pull-request throughput between teams with and without AI assistants.
+> The productivity claims are hard to evaluate without better evidence. Faster typing is not the same as better software, and suggestion acceptance is not the same as correctness.
 >
 > None of this means the tools are useless. It means they are tools. They do not replace judgment, and they do not eliminate the need for tests. If you do not have tests, you cannot tell whether the suggestion is right.
 
@@ -437,7 +439,7 @@ Provide:
 - Removed chatbot artifacts ("Great question!", "I hope this helps!", "Let me know if...")
 - Removed significance inflation ("testament", "pivotal moment", "evolving landscape", "vital role")
 - Removed promotional language ("groundbreaking", "nestled", "seamless, intuitive, and powerful")
-- Removed vague attributions ("Industry observers") and replaced with specific sources (Google study, named engineers, Uplevel study)
+- Removed vague attributions ("Industry observers") without inventing new sources
 - Removed superficial -ing phrases ("underscoring", "highlighting", "reflecting", "contributing to")
 - Removed negative parallelism ("It's not just X; it's Y")
 - Removed rule-of-three patterns and synonym cycling ("catalyst/partner/foundation")
@@ -449,7 +451,7 @@ Provide:
 - Removed excessive hedging ("could potentially be argued that... might have some")
 - Removed filler phrases ("In order to", "At its core")
 - Removed generic positive conclusion ("the future looks bright", "exciting times lie ahead")
-- Replaced media name-dropping with specific claims from specific sources
+- Removed media name-dropping instead of replacing it with unsupported specificity
 - Used simple sentence structures and concrete examples
 
 ---
