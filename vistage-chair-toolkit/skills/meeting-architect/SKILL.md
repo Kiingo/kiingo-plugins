@@ -1,6 +1,7 @@
 ---
 name: vistage-meeting-architect
-description: Design complete Vistage peer advisory group meetings with veteran Chair judgment: room undercurrent mapping, agenda triage, energy architecture, exercises, facilitation scripts, live pivot thresholds, decision harvest, Chair run-of-show, member materials, pre-work, follow-up, and accountability tools. Use whenever a Vistage Chair needs meeting prep, agenda design, a CEO roundtable plan, facilitation plan, run of show, session design, Chair prep, group-dynamics assessment, or help deciding whether to follow, compress, or abandon an agenda. The primary monthly workflow tool for peer group facilitators.
+description: >
+  Design complete Vistage peer advisory group meetings with veteran Chair judgment: room undercurrent mapping, agenda triage, energy architecture, exercises, facilitation scripts, live pivot thresholds, decision harvest, Chair run-of-show, member materials, pre-work, follow-up, and accountability tools. Use whenever a Vistage Chair needs meeting prep, agenda design, a CEO roundtable plan, facilitation plan, run of show, session design, Chair prep, group-dynamics assessment, or help deciding whether to follow, compress, or abandon an agenda. The primary monthly workflow tool for peer group facilitators.
 ---
 
 # Vistage Meeting Architect
