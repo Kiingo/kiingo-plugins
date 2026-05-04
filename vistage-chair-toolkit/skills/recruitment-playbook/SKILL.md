@@ -1,6 +1,6 @@
 ---
 name: vistage-recruitment-playbook
-description: Strategic recruitment advisor for Vistage Chairs building and filling peer advisory groups, including a weekly Chair growth operating system, pipeline stages, conversion metrics, referral rituals, stalled-pipeline review, market-map coordination, and 30/60/90-day recruiting sprints. Provides frameworks, strategies, and actionable tactics for identifying, attracting, and recruiting CEOs and senior executives. Use whenever a Chair asks about recruitment, filling groups, finding members, growing their practice, prospecting, lead generation, marketing for members, building pipeline, "how do I find more members", "my group is shrinking", "I need to recruit", "help me fill my group", "member acquisition", or any question about attracting executives to join a peer advisory group. If the Chair asks where to begin, who to target, how to map the market, or needs a target-company universe, use `vistage-market-map-builder` first. If the Chair asks to revive old opportunities, stalled prospects, "not now" prospects, or past guests, use `vistage-stalled-prospect-reviver` first. Also trigger when a Chair asks about their recruitment funnel, conversion rates, or wants to rethink their go-to-market approach. This skill is contextual — it asks about the Chair's specific situation before prescribing strategy.
+description: Advise Vistage recruitment strategy with pipeline stages, referrals, weekly growth rhythm, stalled-pipeline review, market-map coordination, and 30/60/90 sprints.
 ---
 
 # Vistage Recruitment Playbook

@@ -1,6 +1,6 @@
 ---
 name: vistage-guest-day-converter
-description: Plan, run, debrief, and convert Vistage guest visits without turning the meeting into a sales performance. Use whenever a Chair says "guest day", "guest visit", "prospect attending a meeting", "prep a guest", "prep the group for a guest", "convert a guest", "follow up after guest day", "guest debrief", "should this prospect attend as a guest", "guest fit assessment", or any request about designing an authentic prospect experience inside a peer advisory group.
+description: Plan and debrief Vistage guest visits with guest prep, group prep, participation mode, fit assessment, follow-up, and conversion without pressure.
 ---
 
 # Vistage Guest Day Converter

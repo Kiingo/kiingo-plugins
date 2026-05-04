@@ -1,6 +1,6 @@
 ---
 name: vistage-curriculum-toolkit
-description: Design Vistage and peer advisory group curriculum as a retention, renewal, group-health, and member-development strategy, including 12-month arcs, annual themes, group-maturity templates, veteran stretch, curriculum fatigue repair, check-in questions, member lifecycle strategy, renewal-risk planning, speaker/content integration, and group-health interventions. Use whenever a Chair wants annual planning, a 12-month curriculum, theme arcs, meeting themes, group differentiation, member retention, renewal strategy, icebreakers, check-in questions, member engagement, group health, stagnant group repair, veteran member stretch, or any strategic question about keeping a peer advisory group valuable over time.
+description: Design Vistage curriculum as retention and group-health strategy with annual themes, 12-month arcs, veteran stretch, check-ins, speakers, and stagnation repair.
 ---
 
 # Vistage Curriculum & Engagement Toolkit

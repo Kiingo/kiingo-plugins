@@ -1,7 +1,6 @@
 ---
 name: vistage-market-map-builder
-description: >
-  Build a Vistage Chair's recruiting market map from scratch: classify the starting situation, define the room, build a seat thesis, choose target segments, identify public company sources, build a target-company universe, score fit/timing/access/room value/conflict risk, map Chair credibility lanes and referral sources, find likely decision makers, design warm access paths, and create time-budgeted 30/60/90-day prospecting plans. Use whenever a Chair asks "where do I start recruiting", "build my market map", "find CEOs in my market", "who should I target", "create a prospect list", "map my territory", "starting from scratch", "build a target universe", "what industries should I recruit from", "help me fill a new group", "I need a list of companies", or any request about deciding which companies or leaders to pursue before individual prospect research, signals, or outreach. Do not automate LinkedIn; use public sources and Chair-provided information only.
+description: Build Vistage recruiting market maps with room definition, seat thesis, target segments, company universe, fit and timing scores, and warm access paths.
 ---
 
 # Vistage Market Map Builder

@@ -1,6 +1,6 @@
 ---
 name: vistage-group-composition
-description: Analyze and design Vistage or peer advisory group composition, seat strategy, industry conflicts, company size mix, personality mix, member additions/removals, group maturity, succession inside the group, and second-group readiness. Use whenever a Chair asks "should I add this member", "is this prospect a fit for my group", "industry conflict", "competitor in the group", "group composition", "seat strategy", "wrong-fit member", "remove a member", "member aging out", "start a second group", "group mix", "company size mix", "personality mix", or any request about curating the room rather than simply filling seats.
+description: Analyze Vistage group composition, seat strategy, industry conflicts, size mix, personality mix, member transitions, succession, and second-group readiness.
 ---
 
 # Vistage Group Composition

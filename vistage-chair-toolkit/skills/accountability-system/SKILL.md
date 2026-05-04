@@ -1,6 +1,6 @@
 ---
 name: vistage-accountability-system
-description: Build and repair accountability systems for Vistage and peer advisory groups, including decision logs, commitment quality audits, follow-through culture, commitment debt, non-shaming escalation, accountability partner design, missed-commitment diagnosis, quarterly progress reviews, and group accountability resets. Use whenever a Chair says "accountability", "decision log", "commitment follow-up", "members are not following through", "track commitments", "accountability partners", "missed commitments", "quarterly progress review", "follow-through rate", "commitment quality", "commitment debt", "accountability reset", or any request about turning meeting insight into action without infantilizing CEOs.
+description: Build Vistage accountability systems for decision logs, commitment quality, missed commitments, accountability partners, resets, and quarterly progress reviews.
 ---
 
 # Vistage Accountability System

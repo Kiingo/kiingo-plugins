@@ -1,6 +1,6 @@
 ---
 name: vistage-issue-processing
-description: Supercharge the Vistage Issue Processing 5-step framework with issue triage, advanced facilitation, root cause analysis, and accountability systems. Use whenever a Chair wants to improve issue processing, decide whether something belongs in group processing, prep for a member's issue, get scripts for handling advice spray, shallow questions, weak commitments, emotional flooding, or dominant personalities. Trigger on "issue processing", "5-step process", "Vistage process", "member issue", "hot seat", "peer coaching", "is this a group issue", "processing an issue", "group problem-solving", or any request to facilitate deeper peer advisory conversations. Makes the core of every Vistage meeting dramatically better.
+description: Facilitate Vistage issue processing with issue triage, the 5-step process, root-cause work, better questions, advice control, decisions, and commitments.
 ---
 
 # Vistage Issue Processing Supercharger

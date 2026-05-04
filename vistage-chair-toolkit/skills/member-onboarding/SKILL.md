@@ -1,6 +1,6 @@
 ---
 name: vistage-member-onboarding
-description: Design first-90-day onboarding for new Vistage or peer advisory group members with veteran Chair judgment around room integration, old-guard resistance, buddy design, first meeting prep, first issue timing, confidentiality norms, contribution patterns, first-value creation, integration risk detection, and 30/60/90-day check-ins. Use whenever a Chair says "onboard a new member", "new member orientation", "first meeting prep", "new member buddy", "member expectations", "first 90 days", "new member is not integrating", "how do I introduce a new member", "prepare their first issue", "new member is quiet", "new member is overtalking", or any request about helping a new member become a trusted, useful contributor quickly.
+description: Design first-90-day Vistage onboarding with room integration, confidentiality norms, buddy role, first issue timing, first-value creation, and risk detection.
 ---
 
 # Vistage Member Onboarding

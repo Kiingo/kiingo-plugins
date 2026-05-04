@@ -1,6 +1,6 @@
 ---
 name: vistage-objection-battlecards
-description: Create and customize objection handling battlecards for Vistage Chairs selling peer advisory memberships to CEOs and business owners. Covers the most common objections (time, cost, fit, trust, competitive concerns, redundancy), the psychology behind each, response frameworks, Chair story banks, anonymized proof patterns, and ready-to-use battlecard formats. Use whenever a Chair asks about handling objections, "what do I say when they say...", "they said they don't have time", "how do I handle the cost objection", "objection handling", "story bank", "battlecards", "they're not interested", "how do I overcome resistance", "sales objections", "prospect pushback", or any scenario where a Chair is preparing for or debriefing from a conversation where a prospect raised concerns. Also trigger when a Chair describes a specific prospect's objection and wants a tailored response, or when they want to practice handling objections. This skill treats every objection as a window into the prospect's real concern — surface objections are rarely the real issue.
+description: Create Vistage objection battlecards for time, cost, fit, trust, confidentiality, redundancy, delayed decisions, response scripts, and story banks.
 ---
 
 # Vistage Objection Battlecards

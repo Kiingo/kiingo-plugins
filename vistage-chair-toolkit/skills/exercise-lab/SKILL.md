@@ -1,6 +1,6 @@
 ---
 name: vistage-exercise-lab
-description: Generate decision-forcing exercises, sharing formats, and icebreakers for Vistage and peer advisory group meetings, with selection tags for trust level, time, guest-safety, remote use, group size, energy, and facilitation risk. Use whenever a Chair needs a fresh exercise for a business topic (pricing, talent, strategy, cash, succession, AI adoption, etc.), a new sharing format, accountability check-in formats, crisis processing protocols, or engagement techniques. Trigger on "meeting exercises", "group activities for CEOs", "sharing formats", "facilitation techniques", "decision-forcing exercises", "guest-safe exercise", "remote-friendly exercise", "icebreaker questions", "check-in questions", or any request for peer advisory group facilitation tools.
+description: Generate Vistage exercises, sharing formats, icebreakers, check-ins, and worksheets with trust, time, guest-safety, remote, energy, and risk tags.
 ---
 
 # Vistage Exercise & Format Lab

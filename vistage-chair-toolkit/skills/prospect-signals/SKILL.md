@@ -1,6 +1,6 @@
 ---
 name: vistage-prospect-signals
-description: Research a prospective Vistage member or target company from public, non-LinkedIn-automated sources and produce a compact recruiting signal fiche for a Vistage Chair. Use whenever a Chair asks for "prospect signals", "signal scan", "recruiting signals", "what is happening at this company", "why might this CEO be open now", "find trigger events", "market signals for [company]", "research this company before outreach", "is there a timing reason to reach out", or any request to gather evidence before prospect intel, outreach, guest-day planning, or room-fit assessment. This skill is for Vistage/peer advisory recruiting, not AI consulting sales. It must not automate LinkedIn viewing, scraping, connecting, messaging, commenting, or profile activity; it may analyze user-pasted LinkedIn notes.
+description: Scan public non-LinkedIn sources for Vistage prospect signals including trigger events, ownership, company news, leader visibility, timing, and room-fit questions.
 ---
 
 # Vistage Prospect Signals

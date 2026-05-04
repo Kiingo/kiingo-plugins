@@ -1,6 +1,6 @@
 ---
 name: vistage-one-to-one-coach
-description: Prepare and guide private monthly one-to-one coaching sessions between a Vistage Chair and a member, with veteran Chair judgment around member patterns, renewal risk, quiet disengagement, hard conversations, commitment drift, group integration, and whether an issue belongs in the room. Use whenever a Chair asks for "one-to-one prep", "1:1 coaching", "monthly coaching session", "member coaching", "prep for my one-to-one with [member]", "what should I ask this member", "this member keeps avoiding commitments", "should this issue go to the group", "hard conversation with a member", "member pattern", "member is disengaged", "renewal risk", "private coaching script", or any request about diagnosing a member issue, tracking commitments, preparing an issue for group processing, or translating group insight into action.
+description: Prepare Vistage one-to-one coaching with member pattern diagnosis, renewal-risk radar, hard conversations, commitment drift, and group-issue routing.
 ---
 
 # Vistage One-to-One Coach

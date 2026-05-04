@@ -1,6 +1,6 @@
 ---
 name: vistage-sales-coach
-description: Interactive sales conversation coach for Vistage Chairs, with veteran Chair judgment around peer posture, fit selection, trust creation, hidden objections, room protection, next-step discipline, and Chair selling patterns such as over-explaining, rescuing, chasing prestige, avoiding tension, pitching too early, or closing before trust is earned. Use whenever a Chair says "let's practice a sales call", "roleplay a prospect", "I want to practice my pitch", "pretend you're a CEO I'm recruiting", "simulate a prospect conversation", "practice mode", "debrief this sales call", "I just had a call with a prospect", "they said [objection]", "what should my next move be", "help me get better at recruiting", or any request to practice, analyze, or improve a Vistage recruitment conversation.
+description: Coach Vistage recruitment conversations with CEO roleplay, call debriefs, selling-posture diagnosis, fit protection, objection decoding, and next-step discipline.
 ---
 
 # Vistage Sales Conversation Coach

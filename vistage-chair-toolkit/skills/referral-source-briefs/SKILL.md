@@ -1,6 +1,6 @@
 ---
 name: vistage-referral-source-briefs
-description: Prepare concise, relationship-safe referral source briefs for Vistage Chair recruitment. Use whenever a Chair asks to brief a referral source, research a CPA/banker/attorney/advisor/member/alumni/community connector before asking for introductions, decide how to approach a specific source, understand what prospects a source may know, build a source-specific ask, prepare for an advisor lunch, create a member referral conversation plan, score referral source fit, or create source-by-source briefing notes for a referral campaign. This skill uses public sources and Chair-provided relationship context only; it must not automate LinkedIn scraping, profile viewing, messages, connection requests, likes, comments, or other social activity.
+description: Prepare Vistage referral source briefs with likely access, motivation, reputation risk, fit education, ask level, scripts, intro copy, and close-loop plans.
 ---
 
 # Vistage Referral Source Briefs

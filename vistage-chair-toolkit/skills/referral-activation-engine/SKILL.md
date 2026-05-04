@@ -1,6 +1,6 @@
 ---
 name: vistage-referral-activation-engine
-description: Build and operate a Vistage Chair referral activation system for recruitment. Use whenever a Chair asks for referrals, member referrals, advisor referrals, warm introductions, "who should I ask", "how do I ask members", "activate my network", "get intros", "build a referral campaign", "referral source map", "intro language", "member referral scripts", "CPA/banker/attorney referral strategy", "alumni referrals", or any request to turn current members, alumni, advisors, community connectors, past guests, or trusted contacts into warm prospect introductions. This skill creates specific asks, source-specific scripts, intro copy, follow-up cadence, CRM fields, and source-protection rules. Do not automate LinkedIn; only use public sources, Chair-provided lists, and manual Chair review.
+description: Build Vistage referral activation with source maps, member and advisor asks, intro copy, follow-up cadence, source protection, and CRM fields.
 ---
 
 # Vistage Referral Activation Engine

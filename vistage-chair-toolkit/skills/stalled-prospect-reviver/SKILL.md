@@ -1,7 +1,6 @@
 ---
 name: vistage-stalled-prospect-reviver
-description: >
-  Diagnose and revive stalled, dormant, ghosted, deferred, "not now", post-guest, and old "almost joined" Vistage prospects without chasing or pressuring them. Use when a Chair asks to re-engage a prospect, restart a conversation, follow up after silence, revive a past guest, handle a delayed decision, audit stalled pipeline, write a reactivation note, decide whether to revive or pass, build a nurture plan, or reconnect after a prospect said "not now." Produces stall autopsy, revive/pass recommendation, timing triggers, source path, nurture asset match, relationship-safe manual message drafts, reply handling, cadence, CRM updates, and close-loop language. Does not automate LinkedIn or any outreach sends.
+description: Revive stalled Vistage prospects including ghosted, deferred, not-now, post-guest, and almost-joined opportunities with revive or pass diagnosis and safe messages.
 ---
 
 # Vistage Stalled Prospect Reviver

@@ -1,6 +1,6 @@
 ---
 name: vistage-outreach-campaign
-description: Build a complete, ready-to-execute multi-touch outreach campaign for a specific Vistage prospect, with source-specific variants for referrals, events, cold LinkedIn, past guests, former-member referrals, speaker attendees, and stalled prospects. Generates personalized, Chair-reviewed emails, LinkedIn message drafts, value-bomb content, conversion messages, timing calendars, subject line options, objection responses, and tracking metrics — all in a copy-paste-ready playbook. Use whenever a Chair says "create an outreach campaign for [name]", "write outreach for this prospect", "help me reach [name]", "build a campaign", "draft messages for [name]", "write an email to this CEO", "LinkedIn message for a prospect", "follow-up sequence", "drip campaign for a prospect", "how should I reach out to [name]", or any request to create actual outreach messages for a specific executive. Works best when paired with `vistage-prospect-signals` for evidence and `vistage-prospect-intel` for the full brief. Also trigger when a Chair has already described a prospect in conversation and wants to create outreach.
+description: Build manual Vistage prospect outreach campaigns for referrals, events, past guests, stalled prospects, emails, LinkedIn drafts, follow-ups, and objections.
 ---
 
 # Vistage Outreach Campaign Builder

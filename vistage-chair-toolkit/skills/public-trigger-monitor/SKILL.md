@@ -1,6 +1,6 @@
 ---
 name: vistage-public-trigger-monitor
-description: Build and run a public-web trigger monitoring workflow for Vistage Chair recruitment. Use whenever a Chair asks to monitor public triggers, watch local companies, scan business news, track prospect timing, find CEO trigger events, create a weekly trigger digest, watch a market map, monitor target companies, set up Google Alerts/business journal scans, identify reasons to reach out, or decide which public events should trigger referral asks, prospect signals, prospect intel, outreach, guest invitations, or nurture. This skill uses public sources only and must not automate LinkedIn profile viewing, scraping, messaging, connecting, commenting, liking, or other social activity.
+description: Build public-web trigger monitoring for Vistage recruiting with target-company watches, news scans, weekly digests, and act, referral, nurture, or pass decisions.
 ---
 
 # Vistage Public Trigger Monitor

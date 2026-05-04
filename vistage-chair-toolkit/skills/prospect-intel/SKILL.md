@@ -1,6 +1,6 @@
 ---
 name: vistage-prospect-intel
-description: Research and profile a prospective Vistage member - company analysis, individual leadership profile, recruiting signals, communication style, Vistage fit assessment, room-fit overlay, and tailored conversation strategy. Use whenever a Vistage Chair says "research this prospect", "tell me about [name/company]", "prep me for a call with [name]", "I have a meeting with a prospect", "profile this CEO", "what should I know about [company]", "intelligence brief on [name]", "is this person a fit for my group", "prospect research", "member research", or any request to understand a potential member before outreach or conversation. Also trigger when the Chair provides a company website, user-pasted LinkedIn notes, or names a specific executive they want to recruit. If the Chair asks specifically for "signals", "trigger events", or a compact evidence scan, use `vistage-prospect-signals` first. This is the essential full-brief step before outreach - it tells the Chair who they're talking to, what matters to that person, how they might affect the room, and exactly how to approach them.
+description: Research Vistage prospects with company analysis, leader profile, communication style, Vistage fit, room-fit overlay, conversation strategy, and discovery questions.
 ---
 
 # Vistage Prospect Intelligence Brief

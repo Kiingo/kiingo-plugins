@@ -1,6 +1,6 @@
 ---
 name: vistage-chair-authority-builder
-description: Build a Vistage Chair's recruiting authority, reputation gravity, thought leadership, speaking platform, local visibility, advisor credibility, LinkedIn/profile positioning, newsletter/content cadence, anonymized member-story bank, and event strategy. Use whenever a Chair asks how to become known, build authority, improve credibility, create content, write LinkedIn posts, build a newsletter, create speaking topics, improve their profile, develop a point of view, get invited to speak, build reputation gravity, create CEO pattern content, or attract prospects before outreach. This skill drafts manual content and strategy only; it must not automate LinkedIn posting, engagement, scraping, connection requests, messages, likes, comments, or profile visits.
+description: Build Chair recruiting authority through positioning, profile language, content, newsletters, speaking topics, advisor briefings, roundtables, and reputation gravity.
 ---
 
 # Vistage Chair Authority Builder
