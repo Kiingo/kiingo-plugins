@@ -11,6 +11,7 @@ Built for Vistage Chairs, EO moderators, YPO forum officers, TEC Chairs, and any
 | Skill | What it does |
 |-------|-------------|
 | **Meeting Architect** | Designs complete meetings with room-undercurrent maps, agenda triage, Chair run-of-show, energy architecture, live pivot scripts, exercises, pre-work, follow-up, decision logs, and accountability systems |
+| **Deck Builder** | Rebuilds or creates uniform, on-brand Vistage Chair PowerPoint meeting decks with Vistage logos, Montserrat fonts, custom icons, consistent headers/footers, and native issue-processing funnel slides |
 | **Issue Processing** | Upgrades the 5-step issue processing framework with issue triage, advanced clarification protocols, root cause toolkits (5 Whys, Iceberg, Fishbone, Cynefin), solution generation methods, and commitment enforcement |
 | **Exercise Lab** | Generates decision-forcing exercises with selection tags for trust level, time, guest-safety, remote use, group size, energy, facilitation risk, full scripts, worksheets, and variations |
 | **Curriculum Toolkit** | Designs curriculum as retention and group-health strategy with 12-month red-thread arcs, veteran stretch, renewal-risk planning, check-in diagnostics, speaker integration, and stagnation repair |
@@ -63,6 +64,8 @@ Install the plugin, then use the slash commands for quick access or just describ
 
 **Facilitation:**
 - "Help me prep for next Tuesday's meeting on pricing"
+- "Rebuild my Vistage meeting deck and make it on-brand"
+- "Standardize these Chair slides with the Vistage logo, fonts, role icons, and issue-processing funnel"
 - "I need an exercise on succession planning for an advanced group"
 - "Give me a guest-safe 45-minute exercise for a low-trust group"
 - "Give me some deep check-in questions — my group has high trust"
@@ -110,6 +113,7 @@ Install the plugin, then use the slash commands for quick access or just describ
 
 Peer advisory group facilitators who want to:
 - Run meetings that produce real decisions, not just good conversations
+- Turn inconsistent monthly slide decks into polished, on-brand PowerPoint meeting materials
 - Build 12-month curricula that compound value month over month
 - Process member issues at a deeper level than surface-level advice
 - Generate fresh exercises so their group never goes on autopilot

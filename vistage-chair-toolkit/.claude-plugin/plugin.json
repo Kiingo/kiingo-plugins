@@ -1,7 +1,7 @@
 {
   "name": "vistage-chair-toolkit",
-  "version": "0.12.2",
-  "description": "The complete toolkit for peer advisory group facilitators: meeting design with Chair run-of-show, issue triage and processing, tagged exercises, group-maturity curricula, one-to-one coaching, member onboarding, guest days, accountability systems, group composition, market-map building, Chair authority building, referral source briefs, referral activation, public trigger monitoring, stalled prospect revival, compliant public-web prospect signal scans, room-fit prospect research, source-specific outreach campaigns, story-bank objection handling, recruitment operating cadence, and scored sales coaching. Built for Vistage Chairs, EO moderators, YPO forum officers, and anyone who runs CEO peer groups.",
+  "version": "0.13.0",
+  "description": "Toolkit for Vistage Chairs and peer advisory facilitators: design meetings, build branded PowerPoint decks, process issues, generate exercises, plan curricula, coach members, onboard guests, manage accountability and group composition, map markets, activate referrals, monitor triggers, revive prospects, research leads, write outreach, handle objections, and practice sales conversations.",
   "author": {
     "name": "Kiingo AI"
   },
@@ -13,6 +13,10 @@
     "chair",
     "CEO",
     "meeting-design",
+    "deck-builder",
+    "powerpoint",
+    "slides",
+    "brand-standardization",
     "run-of-show",
     "issue-processing",
     "issue-triage",

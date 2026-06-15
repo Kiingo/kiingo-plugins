@@ -10,6 +10,7 @@ Complete toolkit for peer advisory group facilitators including Vistage Chairs, 
 
 **Features:**
 - **Meeting Architect**: Design complete meetings with room-undercurrent maps, agenda triage, Chair run-of-show, exercises, live pivot scripts, energy management, and member materials
+- **Deck Builder**: Rebuild or create on-brand Vistage Chair PowerPoint meeting decks with Vistage logos, Montserrat fonts, custom icons, consistent headers/footers, and native issue-processing funnel slides
 - **Issue Processing**: Advanced 5-step issue processing with issue triage, root cause analysis, and accountability systems
 - **Exercise Lab**: Generate decision-forcing exercises with facilitation scripts, worksheets, and selection tags for trust, time, guest-safety, and risk
 - **Curriculum Toolkit**: Design curriculum as retention and group-health strategy with 12-month red-thread arcs, veteran stretch, renewal-risk planning, check-in diagnostics, speaker integration, and stagnation repair
